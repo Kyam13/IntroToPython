@@ -1,0 +1,1000 @@
+macupdate	2012-11-13 19:56:09	Play by Play 1.3.1 - Follow the best designers in the world at http://t.co/X5C5WQlK. http://t.co/Oij2zjPB
+macupdate	2012-11-01 16:54:10	LibreOffice 3.6.3.2 - Free office suite by members of the former http://t.co/xXl1khH5 community. http://t.co/lscd090i
+macupdate	2012-07-19 04:45:08	Downloadr 2.4 - Search and browse http://t.co/ezUaPOSl photos. http://t.co/NDMEj2b5
+macupdate	2012-08-13 12:17:40	Delish 2.1 - http://t.co/pkr1yhod client application; view posts as hi-res screenshots. http://t.co/fl8vYETl
+macupdate	2012-10-13 19:45:01	Mint QuickView 2.0.0 - Companion app for http://t.co/6pBXOqWk. http://t.co/hKa6JFQc
+macupdate	2012-09-05 11:55:23	#moApp 0.7.4 - Client for the new http://t.co/ZS3JgCdG. http://t.co/K7H08Pkg
+macupdate	2012-09-12 18:26:38	#moApp 0.7.7 - Client for the new http://t.co/ZS3JgCdG. http://t.co/K7H08Pkg
+macupdate	2012-10-02 12:47:52	PandoraJam 2.1 - Streams http://t.co/9sw61O7X radio music wirelessly and more (beta). http://t.co/IeMQNnUW
+macupdate	2012-08-20 17:42:58	moApp AppDotNet 0.2 - Client for the new http://t.co/ZS3JgCdG. http://t.co/BXmru4Il
+macupdate	2012-08-22 19:23:27	moApp AppDotNet 0.4 - Client for the new http://t.co/ZS3JgCdG. http://t.co/BXmru4Il
+macupdate	2012-08-25 22:09:54	moApp AppDotNet 0.6 - Client for the new http://t.co/ZS3JgCdG. http://t.co/BXmru4Il
+macupdate	2012-08-29 16:05:24	LibreOffice 3.6.1.2 - Free office suite by members of the former http://t.co/xXl1khH5 community. http://t.co/lscd090i
+macupdate	2012-08-20 17:41:02	moApp AppDotNet 0.2M - Client for the new http://t.co/ZS3JgCdG.  http://t.co/BXmru4Il
+macupdate	2010-07-28 13:13:09	ManDrake 1.2 - Free WYSIWYG-style man page editor for Mac OS.
+macupdate	2010-08-12 12:59:21	DiskAid 4.12 - Use your iPhone or iPod touch as external Disk.
+macupdate	2010-11-30 16:35:23	Spyder 2.1.50 - MySpace social network browser. http://tinyurl.com/5pfrqh
+macupdate	2011-01-19 18:19:31	Stomper 1.0 - Quickly track your time. http://tinyurl.com/4ohvdcr
+macupdate	2012-06-04 17:02:14	dupeGuru Music Edition 6.4.1 - Find duplicate songs in your music collection. http://t.co/uClMhxJi
+macupdate	2012-02-08 22:55:53	CopyCatX 5.1 - Complete volume duplication. http://t.co/ur9ZplxM
+macupdate	2012-04-20 02:37:06	Hands Off! 2.0.1 - Monitor and control application access to your network and disks. http://t.co/74aVGL9C
+macupdate	2012-10-01 05:18:04	PDF Creator Master 2.1.0 - Create PDFs from plain text and images. http://t.co/tDljxr21
+macupdate	2012-10-28 15:13:57	ASCII Viewer 6.1 - Displays the ASCII table. http://t.co/zjFk2Tdx
+macupdate	2012-10-31 12:28:20	Desktop Web Browser 5.0 - Display webpages directly on the desktop of the Finder. http://t.co/0IUCk27M
+macupdate	2012-11-13 15:48:49	SugarSync Manager 2.0 - Feature-rich online storage resource (beta). http://t.co/iEkdTpGz
+macupdate	2012-12-14 17:06:54	Navicat Essentials for SQLite 10.1.2 - Simple graphical frontend for SQLite databases. http://t.co/r7RjzQZK
+macupdate	2012-12-06 21:26:09	LiSA 1.5.1 - Speaking email checker for Apple Mail. http://t.co/22jZC2YK
+macupdate	2012-10-06 19:02:36	ClickRepair 3.8.4 - Helps restore sound archived from vinyl records. http://t.co/hzmZE5DS
+macupdate	2010-01-07 18:34:24	DynDNS Updater 3.0 - Provides support for updating hosts and more. http://tinyurl.com/yce5eko
+macupdate	2012-06-03 16:53:19	Adobe Products Key Finder 1.0 - Find your Adobe product keys.  Error
+macupdate	2010-04-27 18:35:10	FileChute 4.3.1 - Quick internet file transfer tool.
+macupdate	2012-06-03 03:04:21	Cookie Stumbler 1.5 - Scan for ad and tracking cookies. Error
+macupdate	2010-01-06 17:27:00	FxFactory 2.1.2 - Effects for Final Cut Pro/Motion/Final Cut Express/After Effects. http://tinyurl.com/bwqrr9
+macupdate	2012-02-02 23:37:55	RegExRX 1.4 - Regular expression editor with many features. Error
+macupdate	2010-01-05 21:58:28	ForkLift 1.7.8 - Powerful file manager: FTP, WebDAV, S3, Bluetooth, more. http://tinyurl.com/24ncqp
+macupdate	2010-01-04 14:05:47	Soxy 1.0.4 - Improves workflow for users with different versions of the same app. http://tinyurl.com/n58mec
+macupdate	2010-01-06 14:27:36	DeDock Skype 1.0 - Remove Skype from your Dock but still be able to use it. http://tinyurl.com/yanzq57
+macupdate	2012-07-26 01:24:25	Data Rescue 3.2.1 - Recover lost data on drives. Error
+macupdate	2011-12-13 21:59:08	EasyCloud Reader 1.1 - Quickly view iCloud files.  Error
+macupdate	2012-08-01 17:59:44	Domainer 2.2.1 - Track and manage all your domain names. Error
+macupdate	2012-07-03 17:10:01	Pecunia 0.4.6 - Comprehensive banking application. Error
+macupdate	2010-11-21 14:22:27	PodPhone to Mac 1.06 - Transfer data from iOS devices to Macs.
+macupdate	2012-03-20 04:59:59	MDB Explorer 1.0.2 - View MDB files without an Access license. Error
+macupdate	2012-08-06 16:03:16	Flip4Mac WMV Studio Pro HD 2.4.4.2 - Import and playback WMV in QuickTime. Error
+macupdate	2012-01-26 08:16:41	SolEol 1.3.5 - Search for movie subtitles. http://t.co/bSfrb7iZ
+macupdate	2013-01-04 04:41:29	MainMenu Pro Family Pack 3.1.3 - Runs system maintenance routines on up to five Macs. http://t.co/zVVXdhGa
+macupdate	2013-01-04 04:06:47	Koku 2.0.3 - A flexible financial manager. http://t.co/QVYzBcdX
+macupdate	2013-01-04 04:03:19	Live Wallpaper 2.3 - Wallpapers with live clock and weather forecasts. http://t.co/8a7QTnD0
+macupdate	2013-01-04 04:01:35	HUDTube Video Player 1.4.3 - Drag and drop video clips from your browser. http://t.co/eG8UOXgn
+macupdate	2013-01-04 03:56:50	Everport 1.1.2 - Import data into Evernote. http://t.co/9aYkLkbP
+macupdate	2013-01-04 03:55:29	Siege Hero HD 1.4.0 - Tear down 150 castles across two ages. http://t.co/PVNjntNc
+macupdate	2013-01-04 03:46:24	JPEGmini 1.4.3 - Compress JPEGs up to 5X while maintaining the original resolution. http://t.co/iOIy8qpL
+macupdate	2013-01-04 03:42:26	Card Shark Collection 7.1 - Collection of solitaire and traditional card games. http://t.co/Z0f5s7F6
+macupdate	2013-01-04 03:32:08	Icon Slate 2.11 - Easily compose, import, or export icons in multiple formats. http://t.co/J72KBfqH
+macupdate	2013-01-04 03:20:28	JSON Helper 1.03 - Work with JSON using AppleScript. http://t.co/VMPduvHI
+macupdate	2013-01-04 03:06:18	EarMan 1.6.0 - Learn to recognize musical intervals by ear. http://t.co/Yl9Ds0Ia
+macupdate	2013-01-04 02:58:51	ScaleMaster 3.0.1 - Hone your musical talent. http://t.co/3l71FF5x
+macupdate	2013-01-04 02:42:27	MultiLedger 7.5.1 - Networkable financial package for small businesses. http://t.co/hDsL1z4B
+macupdate	2013-01-03 21:58:39	Tell Note 1.3.1 - Make and save audio recordings on-the-go. http://t.co/gP46DMXg
+macupdate	2013-01-03 21:41:29	JollysFastVNC 1.44 - Fast VNC client. http://t.co/DArkiHBy
+macupdate	2013-01-03 19:53:57	Norton AntiVirus Definitions 01/03/2013 - Virus definitions for Symantec/Norton AntiVirus. http://t.co/Y91CpgHU
+macupdate	2013-01-03 19:40:54	SecureCRT 7.0.2 - Terminal emulation for IT professionals. http://t.co/2zEDtTzt
+macupdate	2013-01-03 16:24:45	BVS Solitaire Collection 1.29 - Collection of solitaire games. http://t.co/TSno1V06
+macupdate	2013-01-03 16:00:01	Data Guardian 2.2 - Secure database application with 448-bit Blowfish encryption. http://t.co/N3eXl80D
+macupdate	2013-01-03 15:57:03	Window Magician 1.0.7 - Automatic window re-sizer and re-positioner. http://t.co/Czn623MA
+macupdate	2013-01-03 05:27:53	Smart Screen Capture 5.1 - Video recording tool. http://t.co/3zPjSjHv
+macupdate	2013-01-03 05:20:02	Blot 1.3.3 - Adventure platformer featuring a fun loving blob of ink. http://t.co/5W3UPFAW
+macupdate	2013-01-03 05:10:49	xTeam 3.0.7 - Manage the people of your organization (was FlexTeam). http://t.co/xbnPbUlX
+macupdate	2013-01-03 04:42:58	WordsWorth 4.0 - Addictive word game. http://t.co/IqVRva2c
+macupdate	2013-01-02 19:20:21	Hide Folders 6.2 - Protect your documents and folders. http://t.co/UNx3prcV
+macupdate	2013-01-02 17:25:27	PageRank Viewer 3.1 - Displays Google pageranks of up to 30 websites at a time. http://t.co/tk7eXSe4
+macupdate	2013-01-02 16:59:03	Norton AntiVirus Definitions 01/02/2013 - Virus definitions for Symantec/Norton AntiVirus. http://t.co/Y91CpgHU
+macupdate	2013-01-02 13:58:55	Full Deck Solitaire 1.53 - 22 solitaire games. http://t.co/uUMx15Wy
+macupdate	2013-01-02 04:10:09	GreenChess 2.1.9 - Chess game software and PGN Viewer. http://t.co/OzoBHzQv
+macupdate	2013-01-02 04:04:49	Ommwriter 1.30 - A simple text editor for writers. http://t.co/W35N8If5
+macupdate	2013-01-02 03:55:57	Cuptakes 1.6.4 - Collection of cute, feminine desktop images. http://t.co/PrN5tIRN
+macupdate	2013-01-01 22:49:08	DiskCatalogMaker 6.3.8 - Catalog your disks. http://t.co/VwKJOsAv
+macupdate	2013-01-01 21:35:19	iFFmpeg 3.4.5 - Convert multimedia files between formats. http://t.co/6gVEnW8Y
+macupdate	2013-01-01 15:38:03	Panoply 3.1.7 - Plot raster images of latitude/longitude-gridded data. http://t.co/EHu8n7xs
+macupdate	2013-01-01 15:33:01	VueScan 9.2.01 - Scanner software with advanced features. http://t.co/Mn0W165z
+macupdate	2013-01-01 13:21:25	Deeper 1.6.1 - Enable hidden features in Mac OS X. http://t.co/iO9ODIMP
+macupdate	2012-12-31 21:25:22	MacPilot 5.0.5 - Enable over 1,000 hidden features in Mac OS X and other apps. http://t.co/aiRUeQLw
+macupdate	2012-12-31 20:05:32	Kong Icons 2.1 - 1933 Kong movie icons. http://t.co/loanbRGz
+macupdate	2012-12-31 17:09:08	iSpectrum 2.08 - View live audio spectrums. http://t.co/8uv2i6Zt
+macupdate	2012-12-31 16:49:59	Norton AntiVirus Definitions 12/31/2012 - Virus definitions for Symantec/Norton AntiVirus. http://t.co/Y91CpgHU
+macupdate	2012-12-31 15:51:18	Photo Desktop 2.4.1 - Add as many pictures to your desktop as you want. http://t.co/T0GuX7if
+macupdate	2012-12-31 15:37:56	MySQL 5.5.29 - Industry-leading open-source SQL database. http://t.co/NyYXBtfa
+macupdate	2012-12-31 00:04:22	SmuginForAperture 1.6 - Export to the SmugMug photo/video sharing site. http://t.co/VoARkMTa
+macupdate	2012-12-30 19:57:51	Library Books 3.21b35 - Track your borrowed library books. http://t.co/eZzPpQZc
+macupdate	2012-12-30 04:15:12	Pimp Your Screen 1.6 - Custom desktop wallpaper. http://t.co/iq3kM5c4
+macupdate	2012-12-30 04:13:35	Emailchemy 11.3.5 - Convert email to a standard portable format. http://t.co/5A8KhQ6P
+macupdate	2012-12-29 08:29:58	Ondesoft Audio Recorder 3.02.5 - Record sound from numerous sources. http://t.co/Obnnxefd
+macupdate	2012-12-29 08:18:04	IntelliJ IDEA 12.0.1 - The most intelligent Java IDE. http://t.co/zw3AQ6kI
+macupdate	2012-12-29 07:59:05	nessViewer 3.2.2 - Media-control software for displaying photos, video and PDF. http://t.co/NU21ya8n
+macupdate	2012-12-29 06:17:11	File Multi Tool 5.20 - File tweaking tool. http://t.co/jlzH7OFw
+macupdate	2012-12-29 06:12:18	Screen Snake 2.1 - Re-imagining of the classic computer game. http://t.co/oFkzi2gQ
+macupdate	2012-12-28 22:42:02	Display Maestro 1.2.3 - Optimize resolution and bit depth for attached displays. http://t.co/j0pirGyJ
+macupdate	2012-12-28 22:33:06	Window Magician 1.0.6 - Automatic window re-sizer and re-positioner. http://t.co/Czn623MA
+macupdate	2012-12-28 22:29:58	Digital Sentry 1.3.1 - Monitor your system to avoid unauthorized access and theft. http://t.co/y7z6p2Tg
+macupdate	2012-12-28 18:45:57	Strata Foto 3D 2.1 - Generate 3D models from still images. http://t.co/NDuKyWZC
+macupdate	2012-12-28 16:53:48	DailyDo 1.2.6 - Simple task manager. http://t.co/lAVO6PiF
+macupdate	2012-12-28 16:48:16	myTracks 2.4.3 - GPS tracks manager; Google maps photo linker. http://t.co/kISnY0m7
+macupdate	2012-12-28 16:44:24	EventScripts 1.0.5 - Trigger AppleScripts based on specific activities.  http://t.co/AbIsBNfB
+macupdate	2012-12-28 16:32:00	Library Books 3.21b32 - Track your borrowed library books. http://t.co/eZzPpQZc
+macupdate	2012-12-28 15:30:07	iMediaHUD 1.5.0 - Free multimedia file inspector. http://t.co/jEoTEln9
+macupdate	2012-12-28 02:55:07	DataGraph 3.1 - Simple and powerful graphing program. http://t.co/NtO630Gl
+macupdate	2012-12-28 01:01:20	Melo 1.1.3 - Keep last.fm in sync. http://t.co/4RMrjLV9
+macupdate	2012-12-28 00:13:22	RoboPostman 1.2.1 - Simplify the process of customizing email messages. http://t.co/Ypv3AYRm
+macupdate	2012-12-28 00:03:31	MacCleanse 3.2.7 - Schedule erasing of sensitive data. http://t.co/ighHuhcf
+macupdate	2012-12-27 20:35:00	TripleA 10.2 - Turn-based strategy game. http://t.co/DOVVFBNI
+macupdate	2012-12-27 20:26:31	Data Guardian 2.1.9 - Secure database application with 448-bit Blowfish encryption. http://t.co/N3eXl80D
+macupdate	2012-12-27 20:13:06	BlueStacks App Player 0.2.5.107 - Run Android applications on your Mac. http://t.co/2wOnwXJl
+macupdate	2012-12-27 17:45:32	Norton AntiVirus Definitions 12/27/2012 - Virus definitions for Symantec/Norton AntiVirus. http://t.co/Y91CpgHU
+macupdate	2012-12-27 16:28:00	Mountain 1.4 - Manage volumes from the menu bar. http://t.co/KwSsqgq3
+macupdate	2012-12-27 13:18:43	MathMagic Personal Edition 8.21 - Equation editor. http://t.co/jmW5ETfH
+macupdate	2012-12-27 11:54:33	MathMagic Pro for InDesign 8.21 - Equation editor for Adobe InDesign. http://t.co/01hrCUlw
+macupdate	2012-12-27 08:42:13	Alarm Clock Pro 9.5.1 - Multi-featured alarm clock system for your Mac. http://t.co/u5RChh71
+macupdate	2012-12-26 23:00:06	ForgetMeNot 1.2.4 - Helpful reminder for email attachments. http://t.co/VpeWMgqI
+macupdate	2012-12-26 17:08:11	Norton AntiVirus Definitions 12/26/2012 - Virus definitions for Symantec/Norton AntiVirus. http://t.co/Y91CpgHU
+macupdate	2012-12-26 14:45:44	SAGE 5.5 - Open-source advanced mathematics software. http://t.co/9KM0Ce5d
+macupdate	2012-12-26 11:58:31	Parallels Desktop 8.0.18354.823166 - Run Windows app without rebooting; special MacUpdate pricing for a... http://t.co/qKnV5dlF
+macupdate	2012-12-26 07:45:07	OnTheAir CG 1.13 - Broadcast quality character Generator application. http://t.co/9A4D3HUN
+macupdate	2012-12-26 07:12:17	Vacation Rental Tracker Plus 1.6.5.3 - Keep track of all your rental units. http://t.co/JXTibZ1d
+macupdate	2012-12-26 06:58:36	Xeoma Video Surveillance Software 12.12.21 - Profesional-quality video surveillance software. http://t.co/2NyYf16Z
+macupdate	2012-12-25 21:43:32	MacPilot 5.0.4 - Enable over 1,000 hidden features in Mac OS X and other apps. http://t.co/aiRUeQLw
+macupdate	2012-12-25 21:42:10	SEO SpyGlass 5.6.1 - Retrieve information about top-performing Internet rivals. http://t.co/ZiHXLpRO
+macupdate	2012-12-25 21:38:27	Rank Tracker 6.6.1 - Search engine ranking monitor for webmasters and SEO. http://t.co/oWzT51j8
+macupdate	2012-12-25 21:36:22	LinkAssistant 4.6.1 - Build links easily with this SEO tool. http://t.co/EcDxcdh6
+macupdate	2012-12-25 21:30:06	Image Smith 1.2.6 - Powerful batch image processing tool. http://t.co/TcdLsXeF
+macupdate	2012-12-25 21:22:45	Data Guardian 2.1.8 - Secure database application with 448-bit Blowfish encryption. http://t.co/N3eXl80D
+macupdate	2012-12-25 19:39:11	Mac Malware Remover 1.1.4 - Rid your Mac of common Malware. http://t.co/TfzUBCur
+macupdate	2012-12-25 18:52:50	Norton AntiVirus Definitions 12/25/2012 - Virus definitions for Symantec/Norton AntiVirus. http://t.co/Y91CpgHU
+macupdate	2012-12-25 15:12:48	Project Canvas 1.1.7 - Multimedia presentation tool. http://t.co/9mxyDQ1R
+macupdate	2012-12-25 04:08:17	TimeWorks 1.2.6 - View iCal events in a window or as screensaver (was iCalViewer). http://t.co/QmYQhLoc
+macupdate	2012-12-25 02:53:29	PKGImage 3.2 - Modular system deployment tool. http://t.co/RQGGKi5W
+macupdate	2012-12-24 23:38:12	Pins 1.5 - Simple and elegant bookmark manager. http://t.co/GmlPG7zR
+macupdate	2012-12-24 19:30:08	The Chronicles Of Shakespeare: Romeo &amp; Juliet 1.7.6 - Help Romeo and Juliet find love in a romantic mystery... http://t.co/x5qtL6FQ
+macupdate	2012-12-24 16:44:14	VueScan 9.1.21 - Scanner software with advanced features. http://t.co/Mn0W165z
+macupdate	2012-12-24 15:20:33	Library Books 3.21b22 - Track your borrowed library books. http://t.co/eZzPpQZc
+macupdate	2012-12-24 15:18:05	Librarian Pro 2.2.3 - Complete personal inventory system. http://t.co/vKGL1Sor
+macupdate	2012-12-23 23:21:39	NVIDIA CUDA 5.0.36 - Development environment for CUDA-enabled GPUs. http://t.co/abjO98U6
+macupdate	2012-12-23 22:55:28	AppyDays 2.0.3 - Track discounted Mac and iOS apps. http://t.co/s7zT3c8f
+macupdate	2012-12-23 22:50:43	G-Ear 1.3.91 - Music player for Google Play (Google Music). http://t.co/OmIxW68Z
+macupdate	2012-12-23 17:49:35	Ant Commander 3.0 - Fully configurable file manager. http://t.co/AiWBVYA2
+macupdate	2012-12-23 05:09:43	Prototypes 1.1.3 - Share and test your iPhone app mockups. http://t.co/agLFkhsC
+macupdate	2012-12-23 05:03:13	Billings Pro 1.6.1 - Multi-use time tracking and invoicing solution. http://t.co/hyGmRraW
+macupdate	2012-12-23 04:49:50	IP Scanner 3.05 - Displays machine names, users and IP addresses of Macs on your network. http://t.co/Oh61OTI7
+macupdate	2012-12-23 03:44:47	GoogleCL 0.9.13 - GoogleCL brings Google services to the command line. http://t.co/68Xuwlye
+macupdate	2012-12-22 04:17:55	PandaBar 1.3.0 - Play Pandora music from the menu bar. http://t.co/lZS2l2Gy
+macupdate	2012-12-22 04:15:53	Tweet Cabinet 2.0 - Archive public twitter timelines. http://t.co/k5EXWXxO
+macupdate	2012-12-21 23:07:21	FreeSpace 1.2.1 - Manage all your connected drives from the menu bar. http://t.co/30uTNAe7
+macupdate	2012-12-21 23:03:14	Cloud Outliner 1.1 - Create and share outlines between your Apple devices and Evernote account. http://t.co/RyZud8YW
+macupdate	2012-12-21 22:58:56	Transform 1.1 - Live XSLT transformations.  http://t.co/BqO33CQQ
+macupdate	2012-12-21 22:51:02	TV Series 0.6.8 - Tracks information about TV shows, add iCal alerts. http://t.co/xJkPAG22
+macupdate	2012-12-21 21:51:13	Inventory Tracker Plus 2.9.7.4 - Track product supply. http://t.co/3WCvaex4
+macupdate	2012-12-21 20:51:59	Quick n Easy Web Builder 1.5.6 - WYSIWYG website builder. http://t.co/7KqC4oPV
+macupdate	2012-12-21 20:40:23	Date Time Calc 1.2.1 - Calculate future and past dates. http://t.co/J0jSBJzr
+macupdate	2012-12-21 17:43:20	Money 4.4.1 - Personal accounting app. http://t.co/dyTTNTTH
+macupdate	2012-12-21 16:40:32	Freecol 0.10.6 - Open source version of Colonization. http://t.co/eUDAsF7h
+macupdate	2012-12-21 16:29:06	Uberstrike HD 4.3.10 - Multiplayer first-person shooter. http://t.co/bNauYHcQ
+macupdate	2012-12-21 16:24:44	Cube Pro 3.2 - Track and report your time and expenses. http://t.co/v31mXEIQ
+macupdate	2012-12-21 16:19:55	Soulver 2.3.1 - Smart notepad with built-In calculator. http://t.co/C7vNutbG
+macupdate	2012-12-21 16:01:55	iSonics 1.0.4 - Convert audio files between formats. http://t.co/H2rbKrxL
+macupdate	2012-12-21 15:54:53	Dropbox 1.6.9 - Online synchronization tool with Finder integration; free 2 GB account. http://t.co/LXCHgmgy
+macupdate	2012-12-21 15:38:06	ExactScan 2.23.4 - Fast document scanning. http://t.co/Vl3OBoSO
+macupdate	2012-12-21 15:24:42	Bartender 1.0.8 - Organize your menubar apps. http://t.co/V0aGaEF8
+macupdate	2012-12-21 14:53:25	Bugzero 6.5.4 - Web-based bug tracker for developers. http://t.co/qxMj5gnT
+macupdate	2012-12-21 13:48:13	Disk Drill 1.8.206 - Data protection and recovery solution. http://t.co/m8XbPTPH
+macupdate	2012-12-21 08:15:59	MDB Explorer 2.0.1 - View MDB files without an Access license. http://t.co/ExjiSfvn
+macupdate	2012-12-21 07:50:42	Tadam 1.2 - Simple Pomodoro timer. http://t.co/zl5XYy5P
+macupdate	2012-12-21 06:02:09	Pixa 1.0.1 - Quickly and easily organize your images. http://t.co/NrbUZPh6
+macupdate	2012-12-21 06:01:17	Pixa 1.0.2 - Quickly and easily organize your images. http://t.co/NrbUZPh6
+macupdate	2012-12-20 21:36:03	Trine 1.11 - Fantasy action platform game. http://t.co/r3FPSEfY
+macupdate	2012-12-20 21:30:33	Fantastic 4 In A Row 1.0.5 - Classic board game with multiple themes. http://t.co/5rrWa1K0
+macupdate	2012-12-20 21:16:05	FlyingWindows 1.4.1 - Enables single application mode. http://t.co/4mZuGzXH
+macupdate	2012-12-20 21:07:48	Folder Sync v1.4.4 - Keep multiple pairs of folders in sync. http://t.co/td9AFUKx
+macupdate	2012-12-20 20:51:20	xDream 2.1.4 - Image editor with layers, vectors, filters and RAW support. http://t.co/WnpqbQqp
+macupdate	2012-12-20 20:37:15	PhotoBulk 1.2 - Edit hundreds of photos in one click. http://t.co/LJVgVWJr
+macupdate	2012-12-20 20:24:25	Password Repository 3.0.1 - Password management app. http://t.co/NGsCp3ic
+macupdate	2012-12-20 20:19:13	SwordSoft Screenink 1.0.3 - Capture and annotate anything on the screen. http://t.co/4SsMVGQY
+macupdate	2012-12-20 19:48:59	XBMC 12.0 rc2 - Powerful media center tool for Mac or Apple TV. http://t.co/GJtcN8fd
+macupdate	2012-12-20 19:25:55	DiscoBrickDJ 1.0.5 - Concert-quality visualization tool. http://t.co/585DuZkM
+macupdate	2012-12-20 19:19:05	Foodie 1.1 - Effortless recipe management and sharing. http://t.co/w3ADtEyH
+macupdate	2012-12-20 19:16:56	Fortis 1.3 - Classic shooter in a new 3D arrangement. http://t.co/VDNhKIZt
+macupdate	2012-12-20 19:09:50	Free Music Player 1.0.5 - Find and play the top music worldwide. http://t.co/FuUCwV6o
+macupdate	2012-12-20 19:06:09	FreeCell 1.2 - Solitaire with no luck involved. http://t.co/YcCiRJdB
+macupdate	2012-12-20 19:00:18	FreeMemory Pro 1.7.1 - Monitor and manage memory usage. http://t.co/tRCUi7Q3
+macupdate	2012-12-20 18:55:21	FutureDecks DJ pro 3.5.0 - Professional DJ mixing software. http://t.co/L8j51ZVU
+macupdate	2012-12-20 18:50:08	Full Deck Solitaire 1.52 - 22 solitaire games. http://t.co/uUMx15Wy
+macupdate	2012-12-20 18:20:38	GIFBrewery 2.0.1 - Convert clips from movies into small GIFs. http://t.co/0uY8CveN
+macupdate	2012-12-20 18:02:52	gNotifier 1.4 - Notifications for multiple Gmail accounts. http://t.co/gbtAiGJp
+macupdate	2012-12-20 17:07:58	Pianopub 1.5.7 - Play Pandora radio from your desktop. http://t.co/I4JD2kyT
+macupdate	2012-12-20 17:04:23	VirtualBox 4.2.6 - x86 virtualization software. http://t.co/6DBodng6
+macupdate	2012-12-20 16:34:21	DYMO Labelwriter 8.4.2.9 - Driver for Dymo dedicated label writer. http://t.co/l1iY0OAw
+macupdate	2012-12-20 16:25:39	TeamViewer 8.0.16638 - Establish remote connections with other Macs and PCs. http://t.co/CE07MG84
+macupdate	2012-12-20 16:11:04	Blender 2.65a - 3D animating, modeling, and rendering app. http://t.co/s4gN2Nes
+macupdate	2012-12-20 15:55:42	Adobe Photoshop CS6 13.0.3 - Professional image editor. http://t.co/k6aEIllQ
+macupdate	2012-12-20 05:21:14	Typinator Family Pack (5 licenses) 5.4 - Speedy and reliable text expansion tool. http://t.co/RUEtCzp3
+macupdate	2012-12-20 03:48:50	Monotony 1.3 - RSS feed reader.  http://t.co/xG3Sys4z
+macupdate	2012-12-20 02:57:31	Intaglio 3.4.2 - Drawing and illustration application. http://t.co/O9oLmAkV
+macupdate	2012-12-19 23:05:31	InterMapper 5.6.4 - Network monitoring utility. http://t.co/EEN96ce2
+macupdate	2012-12-19 22:25:15	Norton AntiVirus Definitions 12/19/2012 - Virus definitions for Symantec/Norton AntiVirus. http://t.co/Y91CpgHU
+macupdate	2012-12-19 20:48:33	CrowzNest 2.4035 - Automate file uploads using Captain FTP. http://t.co/eldVd7Qu
+macupdate	2012-12-19 20:45:43	Captain FTP 6.5060 - Task-savvy FTP/SSL-FTP/SFTP client (beta). http://t.co/SSmxTEMA
+macupdate	2012-12-19 20:15:00	Advanced Web Ranking 9.3 - Web search engine ranking tool. http://t.co/fZ9nGBEM
+macupdate	2012-12-19 20:07:22	LogViewer for Time Machine 1.05 - View hidden logs for Time Machine backups. http://t.co/8bNzqZ6Y
+macupdate	2012-12-19 19:21:37	Snagit 2.1.5 - Screen capture utility. http://t.co/SFnTEKEb
+macupdate	2012-12-19 19:12:24	LogDiver 1.0.1 - Quickly consolidate information from multiple log files. http://t.co/Zlmx6JV4
+macupdate	2012-12-19 19:10:24	BandMaster 1.0.3 - Improvisational music utility. http://t.co/drdu1gbT
+macupdate	2012-12-19 19:07:33	LogViewer for Time Machine 1.0.5 - View hidden logs for Time Machine backups. http://t.co/8bNzqZ6Y
+macupdate	2012-12-19 17:58:08	Umsatz 3.0 - Accounting and taxation made easy. http://t.co/lxtVbjSK
+macupdate	2012-12-19 16:51:33	BBEdit 10.5.1 - Powerful text and HTML editor. http://t.co/R5RmbDp7
+macupdate	2012-12-19 16:38:51	Fluid Noise Generator 2.0.1 - Create images and movies from noise. http://t.co/wodDJBEt
+macupdate	2012-12-19 16:33:44	Flickr Wallpaper 1.2.4 - Find photos from Flickr to use on your desktop. http://t.co/A6M5hp1a
+macupdate	2012-12-19 16:32:00	Flake 1.4 - Create composites of hundreds of images into a single picture. http://t.co/fS5GinKf
+macupdate	2012-12-19 16:28:43	Fireworks HD 2.0 - Add celebratory zing to your party or event. http://t.co/GXzOVzmW
+macupdate	2012-12-19 15:31:08	Adobe Camera Raw 7.3 - Adds support for many new cameras. http://t.co/ORzaF2VA
+macupdate	2012-12-19 15:06:02	Fireplace Live HD 2.1.1 - 7 high-quality fireplace and candle burning videos. http://t.co/sM6YAqbR
+macupdate	2012-12-19 14:58:31	Fireplace 1.2 - Plays fireplace video for the cold winter. http://t.co/LnGE8DNq
+macupdate	2012-12-19 14:48:54	FaxFresh 1.1.1 - Send faxes from your Mac. http://t.co/0Zf6IDgL
+macupdate	2012-12-19 14:47:25	Favs 1.2.1 - The app for all your Internet favorites. http://t.co/jzpllSdf
+macupdate	2012-12-19 14:37:14	FastBall 2 1.1 - Guide a rolling ball through 105 levels. http://t.co/OPL0gekN
+macupdate	2012-12-19 14:34:55	Fashion Love 1.1 - Time management game with clothing theme. http://t.co/8PVOVvJw
+macupdate	2012-12-19 14:26:39	FaceTripper 1.5 - Apply effects to your face in video in real-time. http://t.co/VmjhxC2e
+macupdate	2012-12-19 14:24:51	FaceChat 1.2 - Facebook chat from the menu bar. http://t.co/ZODFJu6u
+macupdate	2012-12-19 05:48:36	SproutConverter 1.0.2 - Clean and preserve your video files. http://t.co/7Xt3rjRa
+macupdate	2012-12-18 23:09:26	Skitch 2.0.3 - Take screenshots, annotate them, and share them online. http://t.co/awdm7CkP
+macupdate	2012-12-18 22:51:56	SproutConverter 1.0.1 - Clean and preserve your video files. . http://t.co/7Xt3rjRa
+macupdate	2012-12-18 21:50:13	goldenRATIO 1.3.1 - Develop websites according to the golden ratio. http://t.co/mojjv96M
+macupdate	2012-12-18 21:35:24	Delivery Status 5.9.1 - Check delivery status of packages. http://t.co/YYbTW3vG
+macupdate	2012-12-18 20:10:17	Goldilocks 1.1.0 - Interactive picture book. http://t.co/YI2NwzJm
+macupdate	2012-12-18 19:54:45	Wunderlist 2.0 - Free task management tool. http://t.co/XlSbqg6o
+macupdate	2012-12-18 19:30:22	Apple iOS 6.0.2 - The latest version of iOS. http://t.co/6RnCOE1r
+macupdate	2012-12-18 17:56:22	Internet Security 2013 10.6.2 - Security suite that includes Virus Barrier and Net Barrier. http://t.co/ojUFqYWK
+macupdate	2012-12-18 17:17:48	VirusBarrier 10.7 - Robust anti-virus software. http://t.co/NCtvSKUY
+macupdate	2012-12-18 17:08:44	Net Barrier 10.7 - Firewall and anti-vandal software. http://t.co/nkXQkQJO
+macupdate	2012-12-18 16:35:37	DbVisualizer 9.0.2 - Cross-platform database visualization and management tool. http://t.co/vjhm7mI0
+macupdate	2012-12-18 15:51:36	KidsMotion 1.1 - Video creation and sharing software for kids. http://t.co/YWMhzo2D
+macupdate	2012-12-18 15:44:08	PulpMotion Advanced 3.5 - Create animations using your own pictures, videos, music. http://t.co/o9BJWsIm
+macupdate	2012-12-18 15:38:20	PulpMotion 3.5 - Create animations using your own pictures, videos, music. http://t.co/2DFWjYgj
+macupdate	2012-12-18 15:31:05	Opera 12.12.1707 - High-performance Web browser. http://t.co/gis4jtfL
+macupdate	2012-12-18 15:00:06	QQ 2.2.0 - Connect to the Chinese social network. http://t.co/nkrEhftU
+macupdate	2012-12-18 14:59:32	iStat Menus 4.03 - Monitor your system right from the menubar. http://t.co/OdahxG2q
+macupdate	2012-12-18 13:01:00	DJMixerPro 3.5.0 - Professional DJ software compatible with iTunes playlists. http://t.co/Gx79QQLc
+macupdate	2012-12-17 23:04:02	HD VideoWall 1.3 - Add moving images to your desktop. http://t.co/BfUkY2gp
+macupdate	2012-12-17 22:58:38	Heart Pro 3.0 - Rotate, stop and cut open the human heart. http://t.co/7y0q6AEd
+macupdate	2012-12-17 22:54:08	iSpeedFocus 1.1.3 - Photo editor for creating blur effects. http://t.co/oIvlftTA
+macupdate	2012-12-17 21:49:24	Hue Go! 2.2.0 - Color picker selects colors from anywhere on screen. http://t.co/eeKuX65b
+macupdate	2012-12-17 21:19:27	MacBook Pro Retina EFI Update 1.1 - For all 13-inch Retina display MacBook Pros. http://t.co/WryOYm1f
+macupdate	2012-12-17 21:17:03	Apple iMac EFI Firmware Update 2.0 - For late 2012 iMacs. http://t.co/1Qh1h3BO
+macupdate	2012-12-17 20:55:31	Eon 2.0.9 - Simple and elegant way to track time on the Mac. http://t.co/vXUstwFn
+macupdate	2012-12-17 20:48:04	Ensoul Contacts 2.0 - Create wallpapers for your iPhone and full-Size contact images for your Address Book. http://t.co/keeGHehs
+macupdate	2012-12-17 20:30:12	Embossed Font Kit 1.1 - Unique fonts for your documents.  http://t.co/ZOisjxYY
+macupdate	2012-12-17 19:55:33	Elder Sign: Omens 1.2.3 - Digital version of the popular dice game. http://t.co/Zd1cPRZm
+macupdate	2012-12-17 19:16:11	Google Chrome 23.0.1271.101 - Modern and fast Web browser. http://t.co/KzgyBAyN
+macupdate	2012-12-17 17:49:06	Easy Spend Log 1.3 - Track and analyze your spending. http://t.co/yVufpEH9
+macupdate	2012-12-17 17:44:47	Easy Invoicing 3.1 - Simple invoicing applications. http://t.co/7gBauFwK
+macupdate	2012-12-17 17:10:39	Driving Theory Test 3.0.2 - DSA highway code testing app. http://t.co/BNn1bJ46
+macupdate	2012-12-17 17:01:39	Dreamy Days 1.2.3 - Add a dreamy haze to photos. http://t.co/HwQoojNq
+macupdate	2012-12-17 16:59:39	DrawnStrips Reader 1.1 - Read comics and manga on your Mac. http://t.co/MlHJz6uL
+macupdate	2012-12-17 16:55:53	Dramatic Black &amp; White 1.11 - Adjust and improve black and white photos. http://t.co/FBaqrRZu
+macupdate	2012-12-17 16:50:45	Dots Deluxe 1.0.4 - Intergalactic version of the classic kids game. http://t.co/Lm5an6MG
+macupdate	2012-12-17 16:48:38	Dot by Dot 1.1 - Puzzling cross between jigsaw and sudoku. http://t.co/b3oiBdjH
+macupdate	2012-12-17 16:34:44	DoItNow! 1.1 - Simple to-do list. http://t.co/fH6yVocQ
+macupdate	2012-12-17 16:28:30	Cappuccino 2.02 - Google Reader client. http://t.co/ZLXGQnri
+macupdate	2012-12-17 16:25:31	DJ Kit 2.0 - 1,200 high-definition audio files available as in-app purchase packs. http://t.co/xnuwEgV0
+macupdate	2012-12-17 16:15:00	DiscBlaze 6.5 - Burn media easily. http://t.co/PELSgTkg
+macupdate	2012-12-17 15:18:58	Readerware 3.19 - Catalog your library. http://t.co/XS24xTHG
+macupdate	2012-12-17 15:05:24	Songsheet Generator 1.6.0 - Prints songsheets and songbooks. http://t.co/CxiLzh2b
+macupdate	2012-12-17 14:46:28	Cinema 4D 14.034 - 3D video animation. http://t.co/MhxVKqw8
+macupdate	2012-12-17 04:38:24	Resize! 1.6 - Resize a folder of pictures in one step. http://t.co/1NIslgdg
+macupdate	2012-12-17 04:29:12	Cappuccino 2.07 - Google Reader client. http://t.co/ZLXGQnri
+macupdate	2012-12-17 04:11:53	Frizzix 1.6.14 Preview 2 - German Fritz!Box call monitor and call manager. http://t.co/CI4w7g9x
+macupdate	2012-12-17 04:07:12	Xeoma Video Surveillance Software 12.12.7 - Profesional-quality video surveillance software. http://t.co/2NyYf16Z
+macupdate	2012-12-16 22:48:12	Theme Song Trivia 1.0.6 - Pop culture trivia game. http://t.co/Dq96vh7W
+macupdate	2012-12-16 22:45:09	Mystery Island II 1.9.4 - Puzzle/adventure game set on a mysterious island. http://t.co/4BCDRqkk
+macupdate	2012-12-16 22:38:25	Christmas Super Frog 2.1.2 - Frogger-style game with a Christmas twist. http://t.co/LETOSB9D
+macupdate	2012-12-16 22:27:30	Christmas Crisis 1.4.3 - Festive holiday puzzle game starring Santa Claus. http://t.co/87HIlYvX
+macupdate	2012-12-16 17:12:52	Dietician-M 1.1 - Food database for experts and novices alike. http://t.co/ye9uraBu
+macupdate	2012-12-16 17:05:39	DelegatePro 3.0.3 - To-do list manager with simple interface. http://t.co/x8DQWzcn
+macupdate	2012-12-16 17:00:44	Degrees 2.0.8 - Weather for your menu bar. http://t.co/58WbYGVv
+macupdate	2012-12-16 16:57:59	Decked Builder 2.7.7 - Build your Magic the Gathering deck. http://t.co/9VdmQItQ
+macupdate	2012-12-16 15:26:20	iShare 1.1 - Easily distribute and share files with your customer. http://t.co/OkXTXWWo
+macupdate	2012-12-16 07:41:03	ScreenFloat 1.4 - Create screenshots in floating windows. http://t.co/gE7NssKL
+macupdate	2012-12-16 07:30:46	MathBoard 2.0 - Learn math the fun and easy way. http://t.co/aew2d28A
+macupdate	2012-12-16 07:20:48	Paprika Recipe Manager 1.4.1 - Simple recipe management for everyone. http://t.co/WAV0nSG5
+macupdate	2012-12-16 07:13:03	LinkThing Safari Extension 2.2.2 - Safari extension controls opening of website links. http://t.co/t7PQZIyB
+macupdate	2012-12-16 07:08:42	Pickpocket 3.0.2 - Browser extension for accessing Pocket links in a popover. http://t.co/SLGLfXtj
+macupdate	2012-12-15 21:42:30	Cubase 7.0.0.2070 - Creative musical production tool for artists, producers, and engineers. http://t.co/wfFt83aL
+macupdate	2012-12-14 22:25:09	Network Radar 1.0.8 - Manage and configure network devices. http://t.co/AhtvP83K
+macupdate	2012-12-14 22:11:48	MyAccounts 6.4.8 - Personal accounting application. http://t.co/pGJhmrTA
+macupdate	2012-12-14 21:30:23	Pixelmator 2.1.4 - Powerful layer-based image editor. http://t.co/ijJgFy7h
+macupdate	2012-12-14 20:36:33	Cream 1.1.1 - Lightweight newsreader. http://t.co/XVPxFu4y
+macupdate	2012-12-14 20:32:09	Twins Mini 1.1 - Minimalistic duplicate finder. http://t.co/wNRdZNLS
+macupdate	2012-12-14 20:19:38	Cobook 2.0 - An intelligent address book. http://t.co/5lTUrQjO
+macupdate	2012-12-14 19:14:39	iPod.iTunes 4.8.7 - Two-directional add-syncing for iPods. http://t.co/BQRGgQwT
+macupdate	2012-12-14 19:07:15	Norton AntiVirus Definitions 12/14/2012 - Virus definitions for Symantec/Norton AntiVirus. http://t.co/Y91CpgHU
+macupdate	2012-12-14 17:20:00	Navicat Essentials for SQL Server 10.1.2 - Simple graphical frontend for SQL Server databases. http://t.co/9ySC5i2x
+macupdate	2012-12-14 17:16:13	Navicat Essentials for Oracle 10.1.2 - Simple graphical frontend for Oracle databases. http://t.co/H8TqN13m
+macupdate	2012-12-14 16:51:55	Icon Slate 2.1 - Easily compose, import, or export icons in multiple formats. http://t.co/J72KBfqH
+macupdate	2012-12-14 16:23:56	Navicat Premium Essentials 10.1.2 - Provides graphical frontend for many popular databases. http://t.co/Oqkyas10
+macupdate	2012-12-14 16:09:32	Navicat for SQLite 10.1.2 - GUI allowing administration of SQLite databases. http://t.co/hac9qJ4V
+macupdate	2012-12-14 15:57:30	Navicat for Oracle 10.1.2 - Oracle administration and development. http://t.co/k689X0aV
+macupdate	2012-12-14 15:46:49	Navicat for PostgreSQL 10.1.2 - PostgreSQL graphical interface. http://t.co/V9lSRkM1
+macupdate	2012-12-14 15:35:51	Navicat Premium 10.1.2 - Combines all Navicat versions in an ultimate version. http://t.co/Xd7XE8VA
+macupdate	2012-12-14 15:31:24	Navicat for MySQL 10.1.2 - Graphically manage MySQL databases. http://t.co/oKp7Aygu
+macupdate	2012-12-14 15:30:46	Navicat for MySQL 10.1.7 - Graphically manage MySQL databases. http://t.co/oKp7Aygu
+macupdate	2012-12-14 04:17:51	Aqua Data Studio 12.0.13 - Single interface for common relational databases. http://t.co/xL7TlPNq
+macupdate	2012-12-14 04:03:44	Google App Engine SDK 1.7.4 - Run your Web applications on Google. http://t.co/3ozv4od7
+macupdate	2012-12-13 22:42:27	Tinderbox 5.12.0 - Store and organize your notes, ideas, and plans. http://t.co/NaZv2Moz
+macupdate	2012-12-13 22:35:35	Apple Lexmark Printer Drivers 3.0 - For OS X 10.6, 10.7 and 10.8. http://t.co/8PPGzjGr
+macupdate	2012-12-13 21:37:31	FoldingText 1.1 - Auto-formats your document as you type. http://t.co/bN8sVl0N
+macupdate	2012-12-13 21:33:01	My IP 1.2 - Find your public IP. http://t.co/GXRZL9Gb
+macupdate	2012-12-13 21:17:36	GamePad Companion 3.2.1 - Make any joystick compatible with OS X. http://t.co/2EfJX01U
+macupdate	2012-12-13 21:15:17	Snap Converter 2.1 - Image and icon conversion tool. http://t.co/Kx8oV82o
+macupdate	2012-12-13 21:09:40	DVDRemaster 8.0.3 - Duplicate, burn or convert DVD movies to iPod, iPhone or Apple TV. http://t.co/kYQJPO7U
+macupdate	2012-12-13 21:06:49	Tweetbot 1.1 - Popular iOS twitter client now available for Mac. http://t.co/dAaBVN0B
+macupdate	2012-12-13 20:48:33	PageZephyr 3.06 - Desktop Search and Publish. http://t.co/Aoh5YmJr
+macupdate	2012-12-13 18:40:02	Wikibot 1.61 - Wikipedia articles reader. http://t.co/0a1WuTtU
+macupdate	2012-12-13 16:40:29	OmniPage Pro X 10.0 - Scan paper documents into readable digital files. http://t.co/Ic3AKbhw
+macupdate	2012-12-13 16:25:08	Norton AntiVirus Definitions 12/13/2012 - Virus definitions for Symantec/Norton AntiVirus. http://t.co/Y91CpgHU
+macupdate	2012-12-13 15:37:36	ClickTime 7.13 - Web-based time tracking service with desktop client. http://t.co/q0sb8n2s
+macupdate	2012-12-13 15:08:42	Transmission 2.75 - Popular BitTorrent client. http://t.co/zdP8UGib
+macupdate	2012-12-12 23:31:19	iCopy v1.0 - Store a list of recently copied items on your clipboard. http://t.co/SwQK5hcr
+macupdate	2012-12-12 22:41:59	xSnap 3.5.1 - Simple way to capture and save an image or a movie of your screen. http://t.co/5I3gnxaO
+macupdate	2012-12-12 20:57:28	XBMC 12.0 rc1 - Powerful media center tool for Mac or Apple TV. http://t.co/GJtcN8fd
+macupdate	2012-12-12 20:54:38	Opera 12.12.1704 - High-performance Web browser (release candidate). http://t.co/gis4jtfL
+macupdate	2012-12-12 18:17:31	iElements 1.6 - Periodic table reference resource. http://t.co/eocN2e2Q
+macupdate	2012-12-12 16:42:26	Norton AntiVirus Definitions 12/12/2012 - Virus definitions for Symantec/Norton AntiVirus. http://t.co/Y91CpgHU
+macupdate	2012-12-12 16:11:03	NeO 1.0.22 - Information outlining and organizing tool. http://t.co/9V4aMH3J
+macupdate	2012-12-12 15:31:27	Adobe AIR 3.5.0.890 - Deploy Web applications on your desktop (beta). http://t.co/rg5Bnadk
+macupdate	2012-12-12 15:20:17	Adobe Flash Player App 11.5.502.136 - Stand-alone Flash Player app for CS4-CS6. http://t.co/hx4v8hVg
+macupdate	2012-12-12 15:15:07	Adobe Flash Player 11.5.502.136 - Multimedia Web browser plug-in. http://t.co/Gd9szyeE
+macupdate	2012-12-11 23:40:32	iExpression 1.0 - Manage your ExpressionEngine content. http://t.co/NQPWjRqT
+macupdate	2012-12-11 23:34:05	Image Bucket 1.7.4 - Resize, watermark, convert and transform images. http://t.co/BKhchMuW
+macupdate	2012-12-11 18:56:36	n-Track 2.0.7 - Audio and MIDI multitrack recorder. http://t.co/NNWUJKLl
+macupdate	2012-12-11 18:54:34	Mactracker 7.0.1 - Database of all Mac models; lists specs and more. http://t.co/GmSX27Yo
+macupdate	2012-12-11 18:47:02	Scribe 2.0 - Intuitive outliner. http://t.co/B7c1UESP
+macupdate	2012-12-11 18:38:07	Success Story 1.4 - Arcade-style time management game. http://t.co/KgP5rUHZ
+macupdate	2012-12-11 18:26:38	ReCycle 2.2.4 - Audio loop and slicing groovemaker. http://t.co/Yiy396XR
+macupdate	2012-12-11 18:18:56	Xtream Path 1.5 - Path editing tool for Adobe Illustrator. http://t.co/7JlFauvU
+macupdate	2012-12-11 18:10:51	Story Lite 2.2 - Flexible text and image editor with multiple editing boxes. http://t.co/jWZkuMBC
+macupdate	2012-12-11 17:39:16	Blender 2.65 - 3D animating, modeling, and rendering app. http://t.co/s4gN2Nes
+macupdate	2012-12-11 15:15:15	Adobe Illustrator CS6 16.0.3 - Professional vector graphics tool for Web and print. http://t.co/Cxffdmgb
+macupdate	2012-12-11 15:12:21	Adobe Photoshop CS6 13.0.2 - Professional image editor. http://t.co/k6aEIllQ
+macupdate	2012-12-11 05:09:36	KeySearch 2.1.2 - Use short keywords to search sites. http://t.co/pjraJaPU
+macupdate	2012-12-11 05:05:31	jalada Collage 3.0.0 - Create and share a personal photo collage in minutes. http://t.co/FlBGulEr
+macupdate	2012-12-11 04:32:05	Thumper 1.4.3 - Native client for Subsonic music streamer. http://t.co/5HNjm5Yt
+macupdate	2012-12-11 04:29:33	WordBook 1.1.2 - English dictionary and thesaurus. http://t.co/TbDZpJIP
+macupdate	2012-12-10 22:17:04	Deep 1.4.4 - Image finder/browser, unique search based on color. http://t.co/BlJNgLtN
+macupdate	2012-12-10 22:13:47	TrashMe 2.1.5 - Uninstall your applications by deleting all related files. http://t.co/6rOJGluZ
+macupdate	2012-12-10 22:12:20	Instant: The Polaroid Maker 1.1.2 - Mimics the workflow of a real Polaroid instant camera. http://t.co/u7HsxCcd
+macupdate	2012-12-10 22:03:23	Daylight 1.9.1 - Shows the sunlight across the world. http://t.co/gUzunL48
+macupdate	2012-12-10 22:00:55	Invoice Pro 3.07 - Simple, flexible invoicing. http://t.co/pyCdyxuV
+macupdate	2012-12-10 21:51:31	Norton AntiVirus Definitions 12/10/2012 - Virus definitions for Symantec/Norton AntiVirus. http://t.co/Y91CpgHU
+macupdate	2012-12-10 21:50:15	VideoDrive 2.6.09 - Add movies to iTunes without converting them. http://t.co/LbugfMbC
+macupdate	2012-12-10 21:44:59	iObserve 1.0.11 - Observe the sky like a pro. http://t.co/KlTUMhkX
+macupdate	2012-12-10 21:36:15	DAQ Plot 10.8.3 - Strip chart application which plots electrical signals and controls devices. http://t.co/bi3ldq8m
+macupdate	2012-12-10 21:22:15	DailyDo 1.2.5 - Simple task manager. http://t.co/lAVO6PiF
+macupdate	2012-12-10 21:20:48	Daily Leg Workout 2.12 - 5 to 10 minute daily leg routines. http://t.co/2uF21aoo
+macupdate	2012-12-10 21:12:09	d-d ZoneX 1.5.0 - Quickly move files and folders to the selected destination folder. http://t.co/lptScDnf
+macupdate	2012-12-10 20:57:53	Cut the Rope 1.1.1 - Collect gold stars and deliver the candy to Om Nom&#39;s mouth. http://t.co/9E1xXXDr
+macupdate	2012-12-10 20:54:36	iReal b 2.7 - Collection of chord sheets for musicians. http://t.co/VmaCRA0j
+macupdate	2012-12-10 20:51:19	Island Racer 2.5.3 - A casual racing game with unique landscapes. http://t.co/w9xIKsr7
+macupdate	2012-12-10 20:46:34	Cursive Font Kit 1.1 - Collection of 10 cursive styled fonts. http://t.co/HbXT19Jz
+macupdate	2012-12-10 20:41:13	Crypt3 20120918.0 - Encrypt and decrypt files and folders. http://t.co/c221Su8a
+macupdate	2012-12-10 20:23:43	Cribbage Forever 1.1.1 - Cribbage game with 3D animation. http://t.co/SEV5RIZC
+macupdate	2012-12-10 20:11:26	CoverToaster 1.4 - Find matching cover art from any song your radio plays. http://t.co/4FBuLKag
+macupdate	2012-12-10 19:35:16	djay 4.1 - Transform your Mac into a full-fledged DJ system. http://t.co/S9dwnXof
+macupdate	2012-12-10 17:40:05	iSpadez 1.1 - Classic spades card game. http://t.co/aZYbNTHf
+macupdate	2012-12-10 17:34:13	iStudiez Pro 1.0.9 - Student planner with iOS syncing. http://t.co/hvqW3TDW
+macupdate	2012-12-10 15:56:30	Angry Birds Star Wars 1.1.0 - Star Wars-themed installment of the popular game series. http://t.co/b1a7yClI
+macupdate	2012-12-10 14:04:21	BatchOutput PDF 2.0b5 - Automate printing of PDF files. http://t.co/tnyfw6Lv
+macupdate	2012-12-10 12:23:34	OnyX 2.6.5b2 - Maintenance and optimization tool. http://t.co/5WAAs0QP
+macupdate	2012-12-10 11:59:40	Graphmatica 2.2.2 - Equation plotter. http://t.co/fwxEiso9
+macupdate	2012-12-10 04:32:13	Arq 3.0.4 - Online backup (requires Amazon Web Services account). http://t.co/e9qJ6nR3
+macupdate	2012-12-09 18:26:18	RSSOwl 2.1.6 - Java newsreader for RSS feeds (release candidate). http://t.co/Om01CVZo
+macupdate	2012-12-09 17:56:58	iSonics 1.0.2 - Convert audio files between formats. http://t.co/H2rbKrxL
+macupdate	2012-12-09 17:54:41	NoSleep 1.3.1 - Close your MacBook without putting it to sleep. http://t.co/XKuUiSqi
+macupdate	2012-12-09 17:47:32	Cookiza! 1.1.2 - Community cookbook with menu planner. http://t.co/nJNKQ50N
+macupdate	2012-12-09 17:27:47	Color Me! 1.2 - Coloring booklet for young children. http://t.co/dz2wCRbl
+macupdate	2012-12-09 17:19:59	Code39Encoder 1.5 - Create 100% compliant Code39 barcodes. http://t.co/7kojMheh
+macupdate	2012-12-09 17:16:27	CM Note Keeper 1.1.16 - Organize all your notes. http://t.co/OifX1So3
+macupdate	2012-12-09 08:20:48	Picture Collage Maker 1.6.1 - Easy-to-use photo collage maker. http://t.co/62OkHRdr
+macupdate	2012-12-09 05:36:43	Boom Recorder 8.3.0-rc7 - Audio recorder for live events, film. http://t.co/HfQl6O8N
+macupdate	2012-12-08 22:38:35	ClipExporter for Final Cut Pro X 1.1.4 - Workflow and export tool for Final Cut Pro X. http://t.co/VRJ38hnj
+macupdate	2012-12-08 22:35:55	Clipart Prime 1.2 - 516 high-quality clipart images. http://t.co/Esxm6gf5
+macupdate	2012-12-08 22:29:17	ChordPro Buddy 1.2.2 - Song editor and viewer. http://t.co/6FTFmHNU
+macupdate	2012-12-08 22:27:12	Chops 1.2 - Practicing aid for musicians. http://t.co/UGvvjuTC
+macupdate	2012-12-08 22:25:39	Chill 1.3.1 - Relax and block out background noises. http://t.co/trM3RUle
+macupdate	2012-12-08 22:22:47	Chicken Math 1.1 - Math learning game for children. http://t.co/1xQQlLX3
+macupdate	2012-12-08 22:18:28	Chess Knight 1.0.5 - Play chess against the computer or a friend. http://t.co/umGUXskG
+macupdate	2012-12-08 22:13:54	Championship Checkers 1.0.5 - Traditional board game with 1-2 player mode. http://t.co/dc5RzGiy
+macupdate	2012-12-08 20:43:24	photo crop 2.3.0 - Makes cropping simple again. http://t.co/sUOpGZM8
+macupdate	2012-12-08 19:05:43	XBMC 12.0 beta3 - Powerful media center tool for Mac or Apple TV. http://t.co/GJtcN8fd
+macupdate	2012-12-08 06:07:13	Window Magician 1.0.5 - Automatic window re-sizer and re-positioner. http://t.co/Czn623MA
+macupdate	2012-12-07 22:03:11	Perfect Diet Tracker 3.6.8.1 - Lose weight through diet monitoring. http://t.co/AtreyzT9
+macupdate	2012-12-07 21:42:31	XBMC 12.0 beta2 - Powerful media center tool for Mac or Apple TV. http://t.co/GJtcN8fd
+macupdate	2012-12-07 20:59:30	Hopper Disassembler 2.6.3 - Binary disassembler, decompiler and debugger. http://t.co/ulRWaw8u
+macupdate	2012-12-07 19:25:59	Quicksilver 71 - Application launcher and much more (beta). http://t.co/aQPsal4E
+macupdate	2012-12-07 17:51:07	iTeleport 6.1.0 - Access your Mac from anywhere in the world. http://t.co/4PArOa2d
+macupdate	2012-12-07 17:20:10	ChemDoodle 5.0.1 - Chemical drawing application.  http://t.co/MMIzDs4I
+macupdate	2012-12-07 17:18:18	iTweetMyiTunes v3.2 - Tweet your current iTunes track to Twitter. http://t.co/VmAag1zw
+macupdate	2012-12-07 17:10:06	iVI 3.258 - Easily convert and import video files into iTunes or iMovie. http://t.co/th9LcA0R
+macupdate	2012-12-07 16:25:26	Jason vs Zombies 1.5 - Zombie action game starring Jason of Friday the 13th. http://t.co/uU7nelbj
+macupdate	2012-12-07 15:53:21	Poker Copilot 3.22 - Poker hand history analysis for many online poker sites. http://t.co/AngZTYq3
+macupdate	2012-12-06 22:59:14	LunarCal 2.1.1 - Chinese, Japanese, and Korean calendars for your menu bar. http://t.co/Ilmxfw98
+macupdate	2012-12-06 22:27:51	MadCap 1.6 - Tomato-throwing action game. http://t.co/JLP7nmWi
+macupdate	2012-12-06 22:11:50	Magic Window 1.4 - Wallpaper featuring time-lapse sunrises and sunsets. http://t.co/3gwtHKD0
+macupdate	2012-12-06 22:07:15	Mah Jong Solitaire 2.98 - Tile pyramid game. http://t.co/Kk2DWWl3
+macupdate	2012-12-06 21:47:44	LogTen Pro 6.0.10 - Professional logbook solution for pilots. http://t.co/h38Sco5j
+macupdate	2012-12-06 21:37:50	Lock Me Now 0.8.2 - Lock your screen from the menu bar. http://t.co/eKhJSB9n
+macupdate	2012-12-06 21:36:25	Upgrade to Parallels 8 for the lowest price of the year + get a free bonus from MacUpdate http://t.co/mauJmBXA
+macupdate	2012-12-06 21:22:49	Lightning Web Browser 2.3.0 - Minimalist Web browser based on Webkit. http://t.co/XRlCHQ52
+macupdate	2012-12-06 21:17:31	LetterMpress 1.4.0 - Design compositions on a virtual printing press. http://t.co/5KBk0yuT
+macupdate	2012-12-06 21:15:43	SuperSync 5.0.2 - Synchronize your media library for on-the-go access. http://t.co/jOd344oV
+macupdate	2012-12-06 20:19:30	JPEGmini 1.4.2 - Compress JPEGs up to 5X while maintaining the original resolution. http://t.co/iOIy8qpL
+macupdate	2012-12-06 20:16:55	Apple Final Cut Pro X 10.0.7 - Professional video editing solution. http://t.co/ojBVgfzZ
+macupdate	2012-12-06 20:15:04	Apple Compressor 4.0.6 - Adds power and flexibility to Final Cut Pro X encoding and exporting. http://t.co/4itNslSo
+macupdate	2012-12-06 20:13:43	Apple Motion 5.0.6 - Create and customize Final Cut Pro titles, transitions, and effects. http://t.co/mq1QsLMO
+macupdate	2012-12-06 20:07:00	Little Snitch 3.0.2 - Alerts you to outgoing network connections. http://t.co/t6wbSsbt
+macupdate	2012-12-06 19:56:16	Lechuza 1.2 - Horror-themed point-and-click puzzle game. http://t.co/lByW5LXk
+macupdate	2012-12-06 19:41:56	Learn Java 3 - Learn the essentials of Java programming. http://t.co/8HFczczL
+macupdate	2012-12-06 19:37:19	Learn C# Programming for Beginners 2 - Learn the essentials of C# programming. http://t.co/hnuzcLKq
+macupdate	2012-12-06 19:32:50	last.fm Loved Tracks Importer 1.3 - Rate iTunes tracks and create playlists based on your last.fm. http://t.co/KK4Fq0TP
+macupdate	2012-12-06 19:27:22	Mahjong Elements HDX 1.6.1 - Over 50 hours of Mahjong solitaire. http://t.co/D8vi0LgA
+macupdate	2012-12-06 19:16:56	Daylite 4.1.1 - Dynamic business organization tool kit. http://t.co/rfb1ZZpM
+macupdate	2012-12-06 17:03:28	Path Finder 6.1.2 - Powerful, award-winning Finder alternative. http://t.co/H2jk6Nph
+macupdate	2012-12-06 16:43:01	Majordomo4U 2.1.3 - Keep track of personal information. http://t.co/XTbt3GDr
+macupdate	2012-12-06 16:37:17	Make a Face 3.5 - Create a face from parts of other faces. http://t.co/DU4RSmw1
+macupdate	2012-12-06 16:25:48	Mancala Kalah 1.0.3 - Count and capture game. http://t.co/yKsFvke6
+macupdate	2012-12-06 16:22:34	Master of Gomoku 1.0.5 - Strategy board game. http://t.co/WbyPSw2s
+macupdate	2012-12-06 16:15:22	Mastock 5.22 - Analyze stock performance and manage your portfolio. http://t.co/SzGpX1qn
+macupdate	2012-12-06 16:12:18	MathStudio 5.3 - Powerful cross-platform mathematics software (was SpaceTime). http://t.co/jElZivIf
+macupdate	2012-12-06 15:30:31	MacPilot 5.0.3 - Enable over 1,000 hidden features in Mac OS X and other apps. http://t.co/aiRUeQLw
+macupdate	2012-12-06 15:19:30	AirRadar 2.2.6 - Easy-to-use, personalized wireless network scanner. http://t.co/1canu5QH
+macupdate	2012-12-06 07:54:10	Parallels Desktop 8.0.18354 - Run Windows app without rebooting; special MacUpdate pricing for a limited time. http://t.co/qKnV5dlF
+macupdate	2012-12-06 01:59:36	PhoneView 2.8.6 - Use your iPhone for file storage, data syncing, and much more. http://t.co/tlIxdVLh
+macupdate	2012-12-05 21:29:53	Diversity 1.6.2 - Tool for entering and inspecting ecological data and more. http://t.co/dwS5zA97
+macupdate	2012-12-05 21:26:27	PDFpen 5.9.3 - Edit and annotate PDFs with ease. http://t.co/FreEg3YU
+macupdate	2012-12-05 21:26:16	PDFpenPro 5.9.3 - Advanced PDF toolkit for HTML conversion and more. http://t.co/bXkWuE67
+macupdate	2012-12-05 19:57:10	Data Guardian 2.1.5 - Secure database application with 448-bit Blowfish encryption. http://t.co/N3eXl80D
+macupdate	2012-12-05 19:50:59	BOOM Level Editor 1.0.2 - Create and install new levels for the popular puzzle game. http://t.co/PXqYHTAJ
+macupdate	2012-12-05 19:45:55	SOHO Notes 9.3.1 - Premier digital note-taking application. http://t.co/D3yX6vKt
+macupdate	2012-12-05 19:42:25	SOHO Organizer 9.3.1 - Includes SOHO Organizer, SOHO Notes and SOHO Print Essentials. http://t.co/2x53liGW
+macupdate	2012-12-05 19:35:48	MDB/ACCDB Viewer 2.1 - View and export Microsoft Access databases. http://t.co/m59MPL2J
+macupdate	2012-12-05 19:32:47	Amazing Slow Downer 3.4.4 - Slow down music without changing the pitch. http://t.co/s4YPcBYu
+macupdate	2012-12-05 19:30:41	Medieval Battlefields 1.6.0 - Turn-based strategy game set in medieval Europe. http://t.co/cFtF5u4j
+macupdate	2012-12-05 19:23:23	Meetings 1.2.1 - Manage and run better meetings. http://t.co/juTEfqvh
+macupdate	2012-12-05 19:17:40	iSonics 0.9.17 - Convert audio files between formats. http://t.co/H2rbKrxL
+macupdate	2012-12-05 18:53:04	Melo 1.1.2 - Keep last.fm in sync. http://t.co/4RMrjLV9
+macupdate	2012-12-05 18:05:02	Midnight Mansion HD: Episode 2 1.0.2 - 2D platform action continues. http://t.co/eUTI7j7I
+macupdate	2012-12-05 16:38:54	Norton AntiVirus Definitions 12/05/2012 - Virus definitions for Symantec/Norton AntiVirus. http://t.co/Y91CpgHU
+macupdate	2012-12-05 16:22:53	Indigo 5.1.7 - Home control server with X10 and INSTEON integration. http://t.co/HZu2oYEc
+macupdate	2012-12-05 13:38:43	Presentation Prompter 5.1 - Feature-filled teleprompter. http://t.co/yXj6Wmlc
+macupdate	2012-12-05 07:28:56	MacUpdate December Bundle - get 12 awesome apps for only $49.99 http://t.co/ohQJAnEQ
+macupdate	2012-12-05 06:10:24	CatDV 10.0.1 - Image media manager. http://t.co/neF7lB9W
+macupdate	2012-12-05 06:08:09	CatDV Pro 10.0.1 - Media asset database and video logging product. http://t.co/4vYdbYno
+macupdate	2012-12-05 05:58:48	SuperSync 5.0.1 - Synchronize your media library for on-the-go access. http://t.co/jOd344oV
+macupdate	2012-12-05 05:33:42	InterMapper RemoteAccess 5.6.3 - View network statuses in real time. http://t.co/WSmDX2Um
+macupdate	2012-12-05 05:20:40	InterMapper 5.6.3 - Network monitoring utility. http://t.co/EEN96ce2
+macupdate	2012-12-04 23:31:35	Minesweeper 2.7.2 - Classic mine sweeping game. http://t.co/6CvOMxMV
+macupdate	2012-12-04 23:01:00	Apple Keynote 5.3 - Update for iWork &#39;09 version of Keynote. http://t.co/JdOK8ZqY
+macupdate	2012-12-04 22:56:07	MiniTune 2.0.0 - Artwork displayer for iTunes. http://t.co/jQcqSG6q
+macupdate	2012-12-04 22:54:49	Apple Pages 4.3 - Update for iWork &#39;09 version of Pages. http://t.co/bO3KpqQN
+macupdate	2012-12-04 22:51:13	Apple iWork 9.3 - Productivity software suite. http://t.co/gDUt7YmJ
+macupdate	2012-12-04 22:46:32	Minute Commander 1.2 - 3D naval battle game. http://t.co/6RBsvMu4
+macupdate	2012-12-04 21:30:39	IconFly 1.1 - Create compatible icons. http://t.co/Kz11MefT
+macupdate	2012-12-04 21:26:41	Growl 2.0.1 - Notification system for OS X apps. http://t.co/vWZDX9st
+macupdate	2012-12-04 21:10:26	ARES Commander Edition 2012.8.60 - Professional CAD with 3D-Modeling and more. http://t.co/Mm9k0erb
+macupdate	2012-12-04 20:24:44	BBEdit 10.5 - Powerful text and HTML editor. http://t.co/R5RmbDp7
+macupdate	2012-12-04 18:20:48	Clippings 1.5.1 - Store, print, and export your text clippings. http://t.co/6XHJtB8D
+macupdate	2012-12-04 18:09:11	TaskNotes 2.0.1 - Simple and elegant way to keep notes. http://t.co/Hy27AgQd
+macupdate	2012-12-04 17:56:56	MOApps Write 2.0.4 - Lightweight word processor. http://t.co/Y8Jt4zXZ
+macupdate	2012-12-04 17:31:54	MailShoot 2.6.1 - Keep track of visitors and collect e-mail addresses. http://t.co/IBGBKBOf
+macupdate	2012-12-04 16:53:39	Curio 8.0.6 - Brainstorming and project management app. http://t.co/oUytMKuB
+macupdate	2012-12-04 16:21:24	Pianoteq 4.2.0 - Physically modelled virtual piano. http://t.co/iJk7RQIv
+macupdate	2012-12-04 15:56:39	Real Studio Plugins 12.5 - Adds thousands of new classes to Real Studio. http://t.co/STE6U8WZ
+macupdate	2012-12-04 15:51:29	Sync Folders Pro 2.3.1 - Automatically sync any number of folders. http://t.co/hNtPQACE
+macupdate	2012-12-04 04:24:10	Evernote 5.0.2 - Capture notes from anywhere and store them in a central, searchable place. http://t.co/GrEqaNPA
+macupdate	2012-12-03 23:18:37	Apple Remote Desktop Client 3.6.2 - Client component for Apple Remote Desktop. http://t.co/BwVTLOC1
+macupdate	2012-12-03 23:01:41	Motivational Poster Maker 1.1 - Create motivational posters. http://t.co/hllcOE3D
+macupdate	2012-12-03 22:58:44	Mountain 1.3.3 - Manage volumes from the menu bar. http://t.co/KwSsqgq3
+macupdate	2012-12-03 22:51:31	Symbolic Composer 6.5.4 - Music composition tool. http://t.co/nCQJh0dZ
+macupdate	2012-12-03 22:49:33	Movie Draft SE 1.0.5 - Screenwriting word processor with streamlined interface. http://t.co/bbKKdI8P
+macupdate	2012-12-03 22:43:06	Movie Thumbnails 1.2.0 - Thumbnail viewer for your movie collection. http://t.co/Ii89vrZ2
+macupdate	2012-12-03 22:39:42	MovieIcon 2.8.1 - Adds cover art to video files. http://t.co/7lcfZlMS
+macupdate	2012-12-03 22:29:37	Music Keys 1.2 - Recognize keys on piano keyboard related to tone names. http://t.co/NmqSdDuI
+macupdate	2012-12-03 22:26:05	My First Five Years 1.0.1 - Capture memories of your baby&#39;s first years. http://t.co/NslzeXEp
+macupdate	2012-12-03 22:24:12	MyAccounts 6.4.7 - Personal accounting application. http://t.co/pGJhmrTA
+macupdate	2012-12-03 21:36:21	Permute 1.3.13 - Easy-to-use, drag-and-drop video conversion. http://t.co/7yHvcG2J
+macupdate	2012-12-03 21:29:50	Photo Album 2.0 - Create and share photo albums. http://t.co/f98RNtlQ
+macupdate	2012-12-03 21:26:12	ECM 1.0.5 - Reduce the size of a typical CD image file. http://t.co/TJQejw2N
+macupdate	2012-12-03 20:41:02	ImageJ 1.47g - Scriptable Java app for scientific image processing and analysis. http://t.co/4DI8ZskY
+macupdate	2012-12-03 20:25:06	Caffeinated 1.3.2 - An aesthetically pleasing Google Reader client. http://t.co/Zt08cclT
+macupdate	2012-12-03 17:49:18	TotalFinder 1.4.8 - Adds tabs, hotkeys, and other tweaks to the Finder (beta). http://t.co/wYP7VoR9
+macupdate	2012-12-03 16:19:24	TeamViewer 8.0.16478 - Establish remote connections with other Macs and PCs. http://t.co/CE07MG84
+macupdate	2012-12-03 14:37:16	Terragen 2.5.4 - Create photorealistic landscape images. http://t.co/At72q1kM
+macupdate	2012-12-02 17:33:25	BatchOutput PDF 2.0b2 - Automate printing of PDF files. http://t.co/tnyfw6Lv
+macupdate	2012-12-01 00:11:47	iPod.iTunes 4.8.6 - Two-directional add-syncing for iPods. http://t.co/BQRGgQwT
+macupdate	2012-11-30 21:46:55	Castmaster 1.4 - Access your podcasts from the menu bar. http://t.co/onxocRPS
+macupdate	2012-11-30 21:40:51	Bubble Explode 1.5.4 - Puzzle game with window background transparency. http://t.co/drCv1aaj
+macupdate	2012-11-30 21:34:38	BombSquad 1.3.0 - Arcade-style party game. http://t.co/cGYPiHpS
+macupdate	2012-11-30 21:30:48	Blotter 2.1 - Streamlined desktop calendar. http://t.co/ERJf10e6
+macupdate	2012-11-30 19:55:07	QuickBooks Pro 2013 14.0.3 R4 - Financial management and accounting for small businesses. http://t.co/Y8pPPCVv
+macupdate	2012-11-30 17:32:41	QuarkXPress 9.5 - Desktop publishing solution; demo available. http://t.co/6JTwyOHF
+macupdate	2012-11-30 16:23:03	calibre 0.9.8 - Complete e-library management system. http://t.co/8QD1tqL4
+macupdate	2012-11-30 15:33:56	Apple Digital Camera RAW Compatibility 4.02 - Adds camera support to iPhoto and Aperture. http://t.co/TJ6EhStt
+macupdate	2012-11-30 15:23:07	Apple LED Cinema Display Software Update 1.1 - Provides support for the 27-inch LED Cinema Display. http://t.co/cK40yrtT
+macupdate	2012-11-30 04:39:02	Pretty Good Solitaire 2.40 - Collection of 400 solitaire games. http://t.co/mlpsgQFj
+macupdate	2012-11-29 22:01:49	TenFourBird 17.0 - Harness the power of Thunderbird 17.0 on your PowerPC Mac. http://t.co/m2srTmvX
+macupdate	2012-11-29 21:47:40	Blink Pro 1.9.1 - Provides IM/file transfer functionality based on SIP SIMPLE. http://t.co/3ccFQTTL
+macupdate	2012-11-29 21:46:15	Blink Lite 1.7.1 - Easy-to-use SIP client. http://t.co/AQscznxl
+macupdate	2012-11-29 21:39:34	BigPhone 2.3.0 - Google Voice menu bar application for your Mac. http://t.co/kDutZW6p
+macupdate	2012-11-29 21:03:08	BatteryWorks 1.2.1 - Modifies the look and feel of the battery menu item. http://t.co/Yb21O2vJ
+macupdate	2012-11-29 20:58:20	Barman Hero 1.3.2 - Classic arcade game in which the player runs a bar.  http://t.co/cNnQuJv4
+macupdate	2012-11-29 20:55:26	Balance Forecasting 1.4.1 - Estimate your future account balances. http://t.co/LhtOnnbF
+macupdate	2012-11-29 20:47:06	AutoAnswer 1.2 - Automatically answer Skype calls from certain users. http://t.co/rOaWIFrV
+macupdate	2012-11-29 20:44:29	Asphalt 6: Adrenaline 1.0.9 - Race 42 cars and bikes with single and multiplayer modes. http://t.co/y6PvauqX
+macupdate	2012-11-29 20:04:54	Google Chrome 23.0.1271.95 - Modern and fast Web browser. http://t.co/KzgyBAyN
+macupdate	2012-11-29 19:34:37	Apple iTunes 11.0 - Manage your music, media, iOS devices, iTunes Store, and more. http://t.co/p2sYHS0S
+macupdate	2012-11-29 15:59:43	AirRadar 2.2.5 - Easy-to-use, personalized wireless network scanner. http://t.co/vWZLaQLF
+macupdate	2012-11-29 15:24:47	iStat Menus 4.00 - Monitor your system right from the menubar. http://t.co/OdahxG2q
+macupdate	2012-11-29 13:25:45	VectorWorks 2013 SP2 - Industry standard CAD program. http://t.co/k6piHODD
+macupdate	2012-11-29 13:03:28	Quick Sprites 1.8 - Create and maintain CSS sprite sheets. http://t.co/0J1oRE3k
+macupdate	2012-11-29 05:05:37	mlbackup 195-3.0.9 - Rsync based disk-to-disk backup tool with auto-rotation. http://t.co/1PkpY6MU
+macupdate	2012-11-28 22:05:46	PhoneView 2.8.5 - Use your iPhone for file storage, data syncing, and much more. http://t.co/tlIxdVLh
+macupdate	2012-11-28 21:40:35	Daylite 4.1 - Dynamic business organization tool kit. http://t.co/rfb1ZZpM
+macupdate	2012-11-28 21:12:15	Norton AntiVirus Definitions 11/28/2012 - Virus definitions for Symantec/Norton AntiVirus. http://t.co/Y91CpgHU
+macupdate	2012-11-28 17:34:24	SeaMonkey 2.15 - Web browser with IRC chat, HTML editing and more (beta). http://t.co/LQBVkVEk
+macupdate	2012-11-28 17:14:53	TwitterTicker 1.0.3 - View your twitter feed in your screensaver. http://t.co/Ct2LzyCq
+macupdate	2012-11-28 17:06:59	Color Sudoku 10.0 - Unique Sudoku puzzle. http://t.co/mJXiG0OB
+macupdate	2012-11-28 17:01:23	Domino 10.0 - Innovative implementation of dominoes. http://t.co/ivPdUvRw
+macupdate	2012-11-28 16:57:09	Gene Construction Kit 4.0.1 - Manipulate DNA sequences and plasmid drawing options. http://t.co/ezjvKRj9
+macupdate	2012-11-28 16:53:15	Actual ODBC Driver for SQL Server 3.1.10 - Connect to SQL servers from Excel X. http://t.co/0TfAJgWB
+macupdate	2012-11-28 16:50:20	Actual ODBC Driver for Oracle 3.1.10 - Import Oracle into Excel/FileMaker. http://t.co/wsU9pm8U
+macupdate	2012-11-28 16:48:02	Actual ODBC Driver for Open Source Databases 3.1.10 - Connect to your MySQL or PostgreSQL database. http://t.co/P9dt9T2l
+macupdate	2012-11-28 16:46:49	Actual ODBC Driver for Access 3.1.9 - Connect to Microsoft Access databases from Excel/Filemaker. http://t.co/MbkJ1pFI
+macupdate	2012-11-28 07:23:59	Toon Boom Storyboard Pro 2.0 - Take an idea and translate it to animated/live-action story. http://t.co/NTFb6zTE
+macupdate	2012-11-27 22:45:09	NeO 1.0.22 - Organize and outline ideas and projects. http://t.co/9V4aMH3J
+macupdate	2012-11-27 22:38:05	Norton AntiVirus Definitions 11/27/2012 - Virus definitions for Symantec/Norton AntiVirus. http://t.co/Y91CpgHU
+macupdate	2012-11-27 22:35:29	NetAdmin 1.0.3 - Network monitoring tool. http://t.co/784pF6P8
+macupdate	2012-11-27 22:27:32	Apple Thunderbolt Firmware Update 1.1 - For mid-2012 MacBook Pros. http://t.co/IuVC2yk0
+macupdate	2012-11-27 22:20:30	Network Strength 1.3.2 - Check your WiFi network strength from your menu bar. http://t.co/9U8CKe4O
+macupdate	2012-11-27 21:48:02	Android 1.2 - Lode Runner clone game. http://t.co/b8F9lU1M
+macupdate	2012-11-27 21:40:06	alterImage 1.2 - Manipulate images. http://t.co/cEvz66jx
+macupdate	2012-11-27 21:33:58	AllPasswords 1.6 - Comprehensive password manager. http://t.co/XMODzOj4
+macupdate	2012-11-27 21:31:22	Jump Birdy Jump 1.3 - Physics-based puzzle game. http://t.co/H6UorPb6
+macupdate	2012-11-27 21:28:35	Alinof Archives 1.4.0 - Store and organize your important documents. http://t.co/NeTozvt9
+macupdate	2012-11-27 21:24:33	Jumping Line 1.1.0 - Simple line jumping game. http://t.co/f5FV1baI
+macupdate	2012-11-27 21:17:48	Landscaper&#39;s Companion 1.4 - Gardening reference guide. http://t.co/6hXxt7v6
+macupdate	2012-11-27 21:04:40	Kousek 2.0.5 - Save and search developing codes. http://t.co/o3QsOcJh
+macupdate	2012-11-27 20:45:45	Pocket 1.1.0 - Store interesting articles, videos, and webpages (was Read It Later). http://t.co/KOL2ugIN
+macupdate	2012-11-27 20:44:57	Air Doc 1.10 - Transfer documents, movies, songs and more to your iOS device. http://t.co/PKDXy1vc
+macupdate	2012-11-27 20:40:27	Joomla! 3.0.2 - Build professional websites and manage Web content. http://t.co/ulp3xaTN
+macupdate	2012-11-27 20:30:43	Window Tidy 1.3 - Manage windows with ease. http://t.co/qiDOPqoT
+macupdate	2012-11-27 17:40:28	Wizard Pro 1.1.0 - Tool for data analysis and exploration. http://t.co/aELZNrHC
+macupdate	2012-11-27 17:08:17	Trickster 2.1 - Quickly access recently used files. http://t.co/hiyl8pgH
+macupdate	2012-11-27 16:59:28	Evernote 5.0.1 - Capture notes from anywhere and store them in a central, searchable place. http://t.co/GrEqaNPA
+macupdate	2012-11-27 16:30:31	MacCleanse 3.2.4 - Schedule erasing of sensitive data. http://t.co/ighHuhcf
+macupdate	2012-11-27 16:08:06	unDock 2.0 - Menu item for ejecting all mounted disks. http://t.co/0ExKX7l0
+macupdate	2012-11-27 12:44:53	Galaxy On Fire 2 1.0.7 - An outer space intergalactic adventure. http://t.co/hdC2CK8n
+macupdate	2012-11-27 11:46:49	Wizard Pro 1.1.1 - Tool for data analysis and exploration. http://t.co/aELZNrHC
+macupdate	2012-11-26 21:22:46	Social Weather 1.0 - Monitor weather for locations of your Facebook friends. http://t.co/i41mTv1f
+macupdate	2012-11-26 20:43:09	Spin Music HD 1.0 - Listen to multiple Internet radio streams. http://t.co/2iXzULgc
+macupdate	2012-11-26 20:19:29	PhotoHound 1.0.2 - Drop a folder of photos and sort by various metadata types. http://t.co/HG8DjKVD
+macupdate	2012-11-26 20:11:08	Google Chrome 23.0.1271.91 - Modern and fast Web browser. http://t.co/KzgyBAyN
+macupdate	2012-11-26 17:50:14	AuroraFox 19.0a2 - Firefox Aurora for PPC. http://t.co/GdwDBTZw
+macupdate	2012-11-26 16:58:05	Norton AntiVirus Definitions 11/26/2012 - Virus definitions for Symantec/Norton AntiVirus. http://t.co/Y91CpgHU
+macupdate	2012-11-26 16:29:38	TweetDeck 2.1.0 - Twitter client for publishers, marketers and power users. http://t.co/ArvoszAf
+macupdate	2012-11-26 04:07:53	Free 1.0.3 - Clean and clutter-free text editor. http://t.co/JZ3OqZJS
+macupdate	2012-11-26 04:03:42	Visifire 5.0.3 - Create and embed attractive, animated Silverlight charts. http://t.co/DVeIcq23
+macupdate	2012-11-25 22:21:40	SimpleMind 1.6.6 - Mindmapping tool for brainstorming and more. http://t.co/yObyQtcX
+macupdate	2012-11-25 21:09:39	MacPilot 5.0.2 - Enable over 1,000 hidden features in Mac OS X and other apps. http://t.co/aiRUeQLw
+macupdate	2012-11-25 18:20:55	VueScan 9.1.20 - Scanner software with advanced features. http://t.co/Mn0W165z
+macupdate	2012-11-25 18:03:44	uTorrent 1.8.0 - Lightweight BitTorrent client (beta). http://t.co/tGBeA5I7
+macupdate	2012-11-25 07:21:09	Tags 2.5.1 - Use tags to organize and retrieve all your files. http://t.co/UHxn76ac
+macupdate	2012-11-25 02:58:31	nice clipboard 1.1.3 - Sync your clipboard history with iCloud. http://t.co/0SF5SGnM
+macupdate	2012-11-25 02:53:00	nice reminder 1.1.3 - Menu bar reminders. http://t.co/6gOUzWqH
+macupdate	2012-11-25 02:42:30	No Gravity 1.3.2 - 3D arcade space shooter. http://t.co/PasYjeO9
+macupdate	2012-11-25 02:34:24	Number Fill 1.0.7 - Collection of challenging number puzzles. http://t.co/zSbCgh7u
+macupdate	2012-11-24 04:52:35	TaskLog 1.1.1 - Gauge your task efficiency. http://t.co/okZj4oZh
+macupdate	2012-11-23 23:45:15	iDeveloper - Icon Generator 2.1 - Generate icons for iOS and Android apps. http://t.co/IbPfuEoV
+macupdate	2012-11-23 23:42:52	Slot Life - Haunted Mansion 1.0 - Slot machine game with 4 mini-games. http://t.co/Erfy7i9y
+macupdate	2012-11-23 23:07:51	Tremulous 1 - Cooperative first person 3D-structure-building game. http://t.co/3RQGY8MS
+macupdate	2012-11-23 22:51:30	Tremulous 1.2 beta - Cooperative first person 3D-structure-building game. http://t.co/3RQGY8MS
+macupdate	2012-11-23 22:12:23	Web Slices 1.0 - View snapshots of Web sites over time. http://t.co/ErtrkwzZ
+macupdate	2012-11-23 20:46:49	Commercial Rental Tracker Plus 1.2.5.1 - Organize all your property rental activities. http://t.co/rhBUxKBJ
+macupdate	2012-11-23 20:44:12	Resort Rental Tracker Plus 1.4.5.1 - Rental property manager. http://t.co/fgUZSKgr
+macupdate	2012-11-23 20:40:00	Commercial Rental Tracker Plus 1.2.5 - Organize all your property rental activities. http://t.co/rhBUxKBJ
+macupdate	2012-11-23 20:36:40	Rental Property Tracker Plus 1.12.5 - Track your rental property business. http://t.co/oPOEzJHk
+macupdate	2012-11-23 17:51:42	Kretures MP 2.3.1 - Colorful tower defense game. http://t.co/8BHfxADs
+macupdate	2012-11-23 16:26:33	Meteorologist 1.6.0 - Popular weather app. http://t.co/Jc2R3wqg
+macupdate	2012-11-23 16:03:28	iPackr 1.00 - Compressed archives manager. http://t.co/p7niOGiP
+macupdate	2012-11-23 16:02:36	SAGE 5.4.1 - Open-source advanced mathematics software. http://t.co/psCDunFf
+macupdate	2012-11-23 15:31:28	Hydra Pro 3.1.1 - High dynamic range imaging software. http://t.co/vLJn7Qij
+macupdate	2012-11-23 02:58:03	OneClickGo 1.0.2 - Take screenshots and shutdown with one click in the Dock. http://t.co/KkhotV2J
+macupdate	2012-11-23 02:51:34	OnStage 1.2.1 - Transform Logic Pro into a performance tool. http://t.co/eJLR6qgg
+macupdate	2012-11-23 02:43:36	OptimUSB 4.1 - Optimize flash drives and memory cards. http://t.co/yo8E5i1b
+macupdate	2012-11-23 02:37:06	Opus Domini 2.4.3 - Personal planner and task management. http://t.co/xhTSXrvK
+macupdate	2012-11-23 02:30:34	Osciroi 1.0.6 - Weblog-style diary for personal use. http://t.co/w0QI9LQ7
+macupdate	2012-11-23 02:21:24	Outside 4.2 - Display weather on your system menu bar. http://t.co/0i17Sxlm
+macupdate	2012-11-22 17:27:31	Annotation Edit 1.9.26 - Editor for working with subtitles, captions and annotations. http://t.co/iGL9a49J
+macupdate	2012-11-22 15:34:55	TextExpander 4.0.3.1 - On-the-fly typing accelerator (was Textpander). http://t.co/tB82SwJD
+macupdate	2012-11-22 02:26:34	Palm Heroes 2 2.3.2 - Turn-based strategy/role-playing game. http://t.co/gzIQIROw
+macupdate	2012-11-21 21:52:47	Flip4Mac WMV Player Pro 3.0.0.126 - Convert WMV files to QuickTime format. http://t.co/qhrgVw4f
+macupdate	2012-11-21 21:47:46	Flip4Mac 3.0.0.126 - Play Windows Media in QuickTime Player. http://t.co/8KKewUvY
+macupdate	2012-11-21 21:13:11	Pinball Massacre 1.05 - Arcade-style pinball game. http://t.co/Rmrf8tn1
+macupdate	2012-11-21 21:10:33	Nova Golf 1.05 - 3D golf game with realistic ball physics. http://t.co/gMoRM5Jy
+macupdate	2012-11-21 21:08:32	Woob 1.2.3 - Provides a consistent, simplified way to use Sina Weibo services. http://t.co/Dizt18g1
+macupdate	2012-11-21 12:36:39	ClamXav 2.3.4 - Free virus checker, based on ClamAV. http://t.co/i7yX1ZUk
+macupdate	2012-11-21 12:31:52	iCopyBot 7.8.5 - Batch transfer iPad, iPod, iPhone content back to a folder or iTunes library. http://t.co/wqcqicoc
+macupdate	2012-11-21 12:24:18	iBackupBot 3.6.4 - Browse, view, export and modify iTunes backup files. http://t.co/Bk1g8CaC
+macupdate	2012-11-21 05:23:16	Core Yoga 1.6 - Follow a 3D instructor in yoga exercise. http://t.co/DuglVskQ
+macupdate	2012-11-21 05:19:57	iSale 5.8.9 - Create &amp; post eBay auctions. http://t.co/eoKEtbam
+macupdate	2012-11-21 05:13:15	Contacts Cleaner 1.7.1 - Fixes Address Book and Apple Sync Services issues. http://t.co/3aXW03Q1
+macupdate	2012-11-21 05:01:13	iSale express 1.2.9 - Post eBay auctions quickly and easily. http://t.co/eDDwoGlQ
+macupdate	2012-11-21 04:57:02	Firetask 3.0.1 - Innovative task management solution. http://t.co/dedGpJFj
+macupdate	2012-11-21 04:51:42	SwiftText 1.1.1 - Quick access scratchpad. http://t.co/zoyKE0yn
+macupdate	2012-11-21 04:38:29	Credit Card Terminal 1.6.1 - Turn your mac into a mobile credit card terminal. http://t.co/dD1gzgxn
+macupdate	2012-11-21 04:30:26	Zombie Area! 1.0.10 - One man against raving hordes of zombies. http://t.co/pXLMr3a6
+macupdate	2012-11-21 04:28:08	TrackSift 1.2.3 - iTunes tools for creating special playlists and more. http://t.co/ckpiufJf
+macupdate	2012-11-21 04:08:36	BookReader 4.3 - Reader for non-DRM e-books. http://t.co/gmHKrRZ0
+macupdate	2012-11-21 02:44:52	Streambox 4.2.1 - Control Pandora from the menu bar. http://t.co/0h2lsrxA
+macupdate	2012-11-21 02:35:12	Paprika Recipe Manager 1.4.0 - Simple recipe management for everyone. http://t.co/WAV0nSG5
+macupdate	2012-11-21 02:28:46	Paranormal Agency 1.3 - Rid the city of malevolent spooks and spirits. http://t.co/J5LAd6pC
+macupdate	2012-11-21 02:19:30	Passwords Plus 2.003.181 - Store and protect passwords and other sensitive information. http://t.co/AKeVfFjN
+macupdate	2012-11-21 02:07:33	PDF Editor 1.3 - View and edit PDF files. http://t.co/lBZVGj4E
+macupdate	2012-11-21 02:04:15	PDF Form Filler 1.2 - Overlay text onto a PDF file. http://t.co/QaRQI20K
+macupdate	2012-11-20 23:38:09	OS X 10.8.2 Supplemental Update 2.0 - For all Mountain Lion users. http://t.co/ZothQJvq
+macupdate	2012-11-20 23:28:38	Fresh Feed Pro 1.5.9 - Simple and effective feed aggregator. http://t.co/Udtv7WDs
+macupdate	2012-11-20 22:49:28	5by5 Radio 1.0 - Listen to live recordings of 5by5 podcasts. http://t.co/tEqiS6jx
+macupdate	2012-11-20 21:16:15	GrabIt 4.3 - Screen capture utility. http://t.co/P0TsMPbm
+macupdate	2012-11-20 20:25:51	Thunderbird 17.0 - Email client from Mozilla. http://t.co/AJrH743t
+macupdate	2012-11-20 20:22:58	Firefox 17.0 - Popular Web browser. http://t.co/Xroxdomm
+macupdate	2012-11-20 16:55:00	Bad Piggies 1.1.0 - Action-packed spin-off of the Angry Birds series. http://t.co/44LveFke
+macupdate	2012-11-20 16:24:17	ADD 3.0.4 - Find duplicate photos in Aperture. http://t.co/t4yKi8HV
+macupdate	2012-11-20 07:42:03	PDFpen Cloud Access 1.1 - Manage your PDFpen documents from the cloud. http://t.co/uNUl8Ofc
+macupdate	2012-11-20 07:32:23	PDFScanner 1.5.1 - Scan and archive documents. http://t.co/4iraw25z
+macupdate	2012-11-20 07:14:29	Persionary 3.0.0 - Translate to and from Persian. http://t.co/204HRQTc
+macupdate	2012-11-20 07:02:46	Personal Mails 3.1.0 - Easily send email in bulk. http://t.co/wPYMStn0
+macupdate	2012-11-20 06:52:24	PhotoDazzle: Beautifier 1.3.6 - Photo optimizer for portraits. http://t.co/5YjlMYnu
+macupdate	2012-11-20 04:40:00	Earth 3D Lite 2.0.0 - Turn your monitor into a realistic space shuttle window (free version). http://t.co/AHwYUsdz
+macupdate	2012-11-20 04:13:00	Noatikl 2.1.5 - Generative MIDI music engine helps create new musical ideas. http://t.co/EK1ofPpr
+macupdate	2012-11-20 04:03:12	FormEntry 2.2.1 - Create native form-based apps for iOS devices. http://t.co/Wxmmr8a9
+macupdate	2012-11-20 03:52:57	Pretty Good Solitaire 2.38a - Collection of 350 solitaire games. http://t.co/FWjAo9HF
+macupdate	2012-11-20 03:36:02	Pickpocket 2.4.23 - Browser extension for accessing Pocket links in a popover. http://t.co/SLGLfXtj
+macupdate	2012-11-19 20:05:09	Hotkey EVE 1.3.1 - Displays helpful keyboard shortcuts. http://t.co/0fjdl5lj
+macupdate	2012-11-19 19:10:40	Dragon Dictate 3.0.1 - Digital download available now; physical product ships Sept 24. http://t.co/YCnMsy7t
+macupdate	2012-11-19 17:51:36	MacVector 12.7.0 - Sequence analysis for molecular biology. http://t.co/QcYVXRnq
+macupdate	2012-11-19 13:38:23	ImageJ 1.47f - Scriptable Java app for scientific image processing and analysis. http://t.co/4DI8ZskY
+macupdate	2012-11-19 12:59:37	Justnotes 1.2.1 - Simple note taking. http://t.co/sg7WVrVm
+macupdate	2012-11-19 07:53:54	PhotoDedupo 2.0.0 - Find and delete duplicate images in iPhoto. http://t.co/l5XrXWIu
+macupdate	2012-11-19 07:47:37	Reader Notifier 1.1 - RSS reader for notification center. http://t.co/ytbpW2Wl
+macupdate	2012-11-19 07:35:27	DVD Ripper HD 2.2.0 - Easy-to-use DVD converter. http://t.co/5EE8evIE
+macupdate	2012-11-19 07:22:36	Urban Lightscape 1.2.3 - Adjust the lighting in your photos. http://t.co/Wv6LemeH
+macupdate	2012-11-19 00:14:29	Osfoora for Twitter 1.3 - Clean and intuitive Twitter client. http://t.co/7GqIzVxn
+macupdate	2012-11-19 00:11:45	DocsFlow 1.4.8 - Integrate Google Docs with InDesign. http://t.co/jWgm0kti
+macupdate	2012-11-19 00:06:29	Tintii 2.6.3 - Selectively color objects in a photo. http://t.co/QnXm72R9
+macupdate	2012-11-19 00:01:14	Battle for Wesnoth 1.10.5 - Fantasy-themed strategy game. http://t.co/YbvLJOGf
+macupdate	2012-11-18 18:55:11	SkyDrive 17.0 - Access your Microsoft SkyDrive cloud storage account from your Mac; 7GB free. http://t.co/ESq9NylG
+macupdate	2012-11-16 20:13:17	Opera 12.11.1661 - High-performance Web browser (release candidate). http://t.co/gis4jtfL
+macupdate	2012-11-16 17:36:41	Wi-Fi Crack 1.03 - Mac OS X GUI for Aircrack-NG. http://t.co/TMALgl6S
+macupdate	2012-11-16 16:14:45	Remote Mouse 2.00 - Turn your iPhone into a wireless trackpad and keyboard. http://t.co/228kkre4
+macupdate	2012-11-16 16:08:52	Found 1.2.3 - Find files quickly across your Mac and personal cloud services. http://t.co/mbphAV1q
+macupdate	2012-11-16 15:20:18	Instantbird 1.3 - Multi-protocol instant messenger chat client. http://t.co/r4h5WNmv
+macupdate	2012-11-16 14:59:07	Google Music Manager 1.0.51.1573 - Official Google Music upload tool; store 20,000 songs for free. http://t.co/aOA8HBXB
+macupdate	2012-11-16 14:55:56	Earth 3D 2.0.0 - Turn your monitor into a realistic Space Shuttle window. http://t.co/qjGQulef
+macupdate	2012-11-16 14:55:21	G-Ear 1.3.8 - Google Play (Google Music) music player. http://t.co/OmIxW68Z
+macupdate	2012-11-16 14:54:35	Earth 3D Lite 1.2.0 - Turn your monitor into a realistic space shuttle window (free version). http://t.co/AHwYUsdz
+macupdate	2012-11-16 06:24:33	Aqua Data Studio 12.0.8 - Single interface for common relational databases. http://t.co/xL7TlPNq
+macupdate	2012-11-16 01:17:06	Snapz Pro X 2.5.0 - Powerful screenshot and video capture utility. http://t.co/DOV76eTO
+macupdate	2012-11-15 22:36:19	Sports Fan Widget 1.3.53 - Keep an eye on your favorite sports teams. http://t.co/rAzvh2gb
+macupdate	2012-11-15 20:58:28	Prototypes 1.1 - Share and test your iPhone app mockups. http://t.co/agLFkhsC
+macupdate	2012-11-15 20:39:20	DashExpander 1.7.3 - Time-saving text expansion tool. http://t.co/qId28OB2
+macupdate	2012-11-15 20:24:16	Microsoft Office 2008 12.3.5 - Productivity suite; Office 2004 updates also available. http://t.co/EgcsNutx
+macupdate	2012-11-15 17:10:38	Viewfinder 1.2 - Search Flickr for the images you need. http://t.co/P97AOELj
+macupdate	2012-11-15 16:08:16	Bugzilla 4.4rc1 - Bug reporting system from http://t.co/YbbvjHtv (Beta). http://t.co/6a6q0iDn
+macupdate	2012-11-15 15:41:07	Evernote 5.0.0 - Capture notes from anywhere and store them in a central, searchable place. http://t.co/GrEqaNPA
+macupdate	2012-11-15 15:15:23	cf/x alpha 2.0.3 - Image transparency and blending, packaged in a powerful non-destructive object editor. http://t.co/oryL2kqR
+macupdate	2012-11-15 00:54:40	Hotspot Shield 2.72 - Simple VPN/proxy solution with free, ad-supported version. http://t.co/bXcq0Ir7
+macupdate	2012-11-14 23:24:48	PhotoDazzle: Beautifier 1.3.5 - Photo optimizer for portraits. http://t.co/5YjlMYnu
+macupdate	2012-11-14 23:12:41	Photoshop 101 1.1 - 5 hours of Photoshop CS5 training. http://t.co/tJn2hlla
+macupdate	2012-11-14 21:07:53	Cartographica 1.2.10 - Explore and refine data, create beautiful maps and more. http://t.co/7Ofvjt5X
+macupdate	2012-11-14 17:43:59	ClickTime 7.12 - Web-based time tracking service with desktop client. http://t.co/q0sb8n2s
+macupdate	2012-11-14 17:33:07	Norton AntiVirus Definitions 11/14/2012 - Virus definitions for Symantec/Norton AntiVirus. http://t.co/Y91CpgHU
+macupdate	2012-11-14 16:33:59	Microsoft Office 2011 14.2.5 - Popular productivity suite; Demo available. http://t.co/L69TRYjL
+macupdate	2012-11-13 23:45:06	PhotoToSketch 1.6.2 - Turn photos into artistic pencil sketches. http://t.co/5zr4ZYd2
+macupdate	2012-11-13 22:45:01	Pirates 1.1 - Find-the-differences game for kids ages 4 to 9. http://t.co/Wp61HP7E
+macupdate	2012-11-13 22:19:54	Pixel Tools 1.1.1 - Make precise pixel measurements and magnify portions of your screen. http://t.co/ljNuJqYj
+macupdate	2012-11-13 22:12:33	PixFit 1.2 - The ultimate measuring tool for Web developers. http://t.co/KXTZCojf
+macupdate	2012-11-13 20:16:24	LyX 2.0.5 - Simplified front end for LaTeX. http://t.co/Y6l1uchp
+macupdate	2012-11-13 20:07:50	PKCS#7Viewer 1.0.2 - Developer tool for inspecting Mac App Store receipts.  http://t.co/aOy4aJn4
+macupdate	2012-11-13 20:05:18	Planbook 4.0.6 - Manage a teacher lesson plan book. http://t.co/C2fO8l2e
+macupdate	2012-11-13 19:53:33	TerraRay 6.5.7 - Create realistic landscape images. http://t.co/sEwqAIfn
+macupdate	2012-11-13 19:37:56	secureSWF 4.0 - Protects SWF files from decompilers and reverse engineering. http://t.co/OdDYBmhK
+macupdate	2012-11-13 17:17:48	Norton AntiVirus Definitions 11/13/2012 - Virus definitions for Symantec/Norton AntiVirus. http://t.co/Y91CpgHU
+macupdate	2012-11-13 17:13:33	Symbolic Composer 6.5.3 - Music composition tool. http://t.co/nCQJh0dZ
+macupdate	2012-11-13 16:57:08	PerfectTablePlan 5.0.7 - Create a seating plan for your wedding, party or event. http://t.co/SjtPfbnC
+macupdate	2012-11-13 05:59:15	Aobo Internet Filter Standard 2.0 - Internet and Web filter. http://t.co/yVVQ6rkr
+macupdate	2012-11-12 19:48:04	Dejumble 2.3 - Create and organize tasks in the menubar. http://t.co/f2NJTSRx
+macupdate	2012-11-12 18:59:44	FX Photo Studio Pro 2.6 - Powerful post-processing photo editor. http://t.co/5GIag5j1
+macupdate	2012-11-12 18:41:01	Rumpus 7.2.8 - High performance FTP server. http://t.co/jyjvh5aQ
+macupdate	2012-11-12 18:24:19	Cover Version 2.1.1 - Displays cover of playing iTunes song. http://t.co/yv6Z08FQ
+macupdate	2012-11-12 18:22:00	Sidekick 4.1.1 - Easy way to change network locations (was Network Location). http://t.co/161iaNnO
+macupdate	2012-11-12 16:24:29	MakeHuman 1.0a7 - Graphics library for modeling of 3D humanoid characters. http://t.co/0ktD0XyY
+macupdate	2012-11-12 15:16:59	Logoist 1.1.2 - Create stunning images and logos with effects. http://t.co/kgTAtj1x
+macupdate	2012-11-12 00:12:10	StockMarketEye 2.9.9 - Easy-to-use portfolio tracker and stock watcher. http://t.co/Z3BO4vv8
+macupdate	2012-11-11 21:12:29	Maxthon Browser 1.0.4.2000 - Safe, fast, accessible web browser. http://t.co/969TbS3L
+macupdate	2012-11-10 22:21:57	Tunnelblick 3.3beta28 - GUI for OpenVPN. http://t.co/XqAq8n7R
+macupdate	2012-11-10 22:17:01	GraphicConverter 8.3.1 - Graphics editor with powerful features. http://t.co/P1SdYyr5
+macupdate	2012-11-09 22:59:13	Robotek 2.6.6 - Action-packed role playing game. http://t.co/uAuBCPf6
+macupdate	2012-11-09 22:45:47	POI Organizer 1.6.1 - Collect, manage Points of Interest for download to Garmin GPS device. http://t.co/fKz0pWKs
+macupdate	2012-11-08 21:52:12	My Medical 1.6.2 - Record-keeping for your personal medical information. http://t.co/h66idyFe
+macupdate	2012-11-07 01:52:56	Apple Canon Printer Drivers 2.11 - For OS X 10.6, 10.7, and 10.8. http://t.co/7AAHSwdp
+macupdate	2012-11-05 05:51:51	GenoDive 2.0b23 - Perform population genetics analyses. http://t.co/fop7edIQ
+macupdate	2012-11-04 19:09:15	Opera 12.10.1650 - High-performance Web browser (beta). http://t.co/02QrbgaZ
+macupdate	2012-11-04 05:10:35	SmartDupe 1.0 - Easily replace duplicates. http://t.co/XuAVHWoy
+macupdate	2012-11-04 05:02:14	Duplicate Annihilator 4.3.1 - Find and delete duplicates in iPhoto. http://t.co/eQkwGaOs
+macupdate	2012-11-03 21:59:19	Paste Master 7.4 - Preference pane clipboard manager. http://t.co/yoMekjBb
+macupdate	2012-11-03 21:46:16	Pro Versioner 2.0.5 - Backup and versioning utility for Final Cut Pro. http://t.co/z1oHHfTz
+macupdate	2012-11-03 21:38:37	Up-Synth 1.0.0 - Virtual synthesizer for electronic music production.  http://t.co/kBQlW65b
+macupdate	2012-11-03 20:35:03	TeXMaker 3.5.2 - A developer-focused LaTex toolkit. http://t.co/bbuGjqhp
+macupdate	2012-11-03 20:26:38	Devawriter Pro 1.0.5.2 - Teach and study and Devanagari. http://t.co/JFe34kTx
+macupdate	2012-11-03 19:22:31	EasyVPN 1.5.3 - Interface for VPN setup in Mac OS X client. http://t.co/N2zLESZz
+macupdate	2012-11-03 19:17:01	iSonics 0.9.11 - Convert audio files between formats. http://t.co/H2rbKrxL
+macupdate	2012-11-03 16:23:44	OSXFUSE 2.5.4 - Extend native file-handling in Mac OS X. http://t.co/0iMAZo8z
+macupdate	2012-11-03 16:20:46	Prices Drop Monitor for Amazon 4.0 - Monitor specified product prices at Amazon. http://t.co/ZA39Z7Fx
+macupdate	2012-11-03 05:02:11	GitHub 76 - Synchronize branches, clone repositories, and more. http://t.co/F0j45uc5
+macupdate	2012-11-03 02:59:07	Yate 1.2.2.2 - Tag and organize your audio files.  http://t.co/WXq952s3
+macupdate	2012-11-03 02:56:32	Pocket Gnome 16135.2 - Bot for repetitive tasks in World of Warcraft. http://t.co/AvTKpYmx
+macupdate	2012-11-03 02:54:33	TextSweep 1.0.0 - Search and replace text in multiple files. http://t.co/CGGDKFuC
+macupdate	2012-11-03 02:50:18	QuickWho 4.0 - Graphical interface to the Unix whois tool. http://t.co/X77PXu9y
+macupdate	2012-11-03 02:37:59	PacketStream 5.0.0 - Easy way to configure/use Apple network monitoring tools. http://t.co/PFlUHofo
+macupdate	2012-11-03 02:33:18	NameFind 6.0.0 - GUI for the Unix find command-line tool. http://t.co/hVyerSWp
+macupdate	2012-11-03 02:23:50	Manpower 4.1.1 - GUI for UNIX (Mac OS X Terminal) documentation. http://t.co/dPzlhMhW
+macupdate	2012-11-03 02:18:18	FileMorph 1.0.0 - Batch renaming of files.  http://t.co/qISrPsJy
+macupdate	2012-11-03 02:11:41	MacFamilyTree 6.3.2 - Genealogy app; visualize your family history. http://t.co/R5eFFem2
+macupdate	2012-11-03 01:54:43	AirServer 4.6 - Stream audio, video and photos via AirPlay. http://t.co/pJkAzhzz
+macupdate	2012-11-03 01:47:26	Reflection 1.5.2 - Remotely stream to your iOS device. http://t.co/UdRxTqo8
+macupdate	2012-11-03 01:41:43	Partisan Nation 1.06 - Political simulation game.  http://t.co/WlZVDHcy
+macupdate	2012-11-03 01:38:13	SimThyr 3.2.1 - Simulate pituitary thyroid feedback control. http://t.co/5K4g5K3k
+macupdate	2012-11-03 01:32:08	BookMacster 1.12.3 - Organize and manage bookmarks and sync across browsers. http://t.co/QdjWbsSN
+macupdate	2012-11-02 21:46:08	MacFamilyTree 6.3.1 - Genealogy app; visualize your family history. http://t.co/R5eFFem2
+macupdate	2012-11-02 21:26:18	darktable 1.1.0.7 - Edit digital negatives. http://t.co/lCW4sGyW
+macupdate	2012-11-02 20:22:50	Fission 2.1.0 - Streamlined audio editor. http://t.co/fEqhb4Pv
+macupdate	2012-11-02 20:06:36	PDF Protector 1.0.0 - Easily encrypt and decrypt PDF documents.  http://t.co/knSNG1rG
+macupdate	2012-11-02 19:54:54	Network Radar 1.0.5 - Manage and configure the devices on a network.  http://t.co/AhtvP83K
+macupdate	2012-11-02 19:05:23	Raging Pigs 1.0.3 - Arcade-style action game. http://t.co/O3oLaNEH
+macupdate	2012-11-02 18:42:34	Mail Stationery 1.2 - Beautiful templates for Apple Mail. http://t.co/zsFX5rn8
+macupdate	2012-11-02 18:32:13	YouTube to MP3 2.6.1 - Extract MP3 audio from YouTube videos. http://t.co/F20ggWJf
+macupdate	2012-11-02 18:29:24	Partisan Nation 1.05 - Political simulation game.  http://t.co/WlZVDHcy
+macupdate	2012-11-02 18:24:42	Opera 12.10.1649 - High-performance Web browser (beta). http://t.co/gis4jtfL
+macupdate	2012-11-02 18:19:02	ScreenShot PSD 1.1 - Capture a screenshot as a layered PSD file.  http://t.co/EZ89h0v6
+macupdate	2012-11-02 18:05:19	MesaSQLite 3.3.5 - SQLite3 database browser, editor and manager. http://t.co/Dumaneci
+macupdate	2012-11-02 17:09:03	Entourage Email Archive X 7.0.0 - Archive Microsoft Entourage email messages. http://t.co/jSNIkACu
+macupdate	2012-11-02 17:06:57	Liquid Defense 1.09 - Puzzle game requires innovation to manage natural resources. http://t.co/LqrjXrOR
+macupdate	2012-11-02 17:02:20	Barnyard Blaster 1.04 - Prevent animals from escaping in this shooter. http://t.co/2Te7GfJG
+macupdate	2012-11-02 17:00:33	Rocket Golf 1.090 - 2D golf with 3D graphics. http://t.co/MHmrRAt4
+macupdate	2012-11-02 16:59:04	Hydrothermal 1.19 - Build a space colony, protect it from invaders. http://t.co/5UJIs1Xm
+macupdate	2012-11-02 16:56:22	Escape 1.080 - Solve 90 puzzles in a prison castle. http://t.co/pARQyZgP
+macupdate	2012-11-02 16:55:12	ASCII Art 1.07 - Convert images to text art. http://t.co/HCjp2Cg4
+macupdate	2012-11-02 16:48:25	Processing 2.0b6 - Programming language for electronic arts. http://t.co/k3koqrJr
+macupdate	2012-11-02 16:40:28	Dropbox 1.5.44 - Online synchronization tool with Finder integration; free 2 GB account (beta). http://t.co/LXCHgmgy
+macupdate	2012-11-02 16:37:22	PTGui 9.1.5 - Panoramic photo stitching software; Pro version available. http://t.co/BQq6u4VJ
+macupdate	2012-11-02 16:26:37	FileZilla 3.6.0-rc1 - Fast and reliable FTP client. http://t.co/tWR8Mhdg
+macupdate	2012-11-02 15:14:26	iStudio Publisher 1.1.9 - Desktop publishing app with dynamic text wrapping. http://t.co/rxKJRwix
+macupdate	2012-11-02 15:03:03	calibre 0.9.5 - Complete e-library management system. http://t.co/8QD1tqL4
+macupdate	2012-11-02 14:55:52	CmapTools 5.05.01 - Construct, navigate, and share knowledge models as concept maps. http://t.co/e3Ct4o5R
+macupdate	2012-11-02 14:44:33	SnapNDrag 2.6.9 - Screen capturing, simplified. http://t.co/iVcHHBHx
+macupdate	2012-11-02 14:28:29	HDR Darkroom 3.0.2 - High-dynamic-range imaging software. http://t.co/nTYuPpb2
+macupdate	2012-11-02 14:21:33	CAMEO 2.4 - Plan for and respond to chemical emergencies. http://t.co/YykXUlTG
+macupdate	2012-11-02 14:07:18	Sync Folders Free 2.1 - Automatically sync folders. http://t.co/hpYn2SXW
+macupdate	2012-11-02 13:55:43	BrainsBreaker 5.2.4.7 - Design and build realistic jigsaw puzzles. http://t.co/WyiWESgn
+macupdate	2012-11-02 12:15:25	Episodes 1.1.1 - Manage all of your TV shows. http://t.co/dLrqBk7i
+macupdate	2012-11-02 12:10:17	World Clock Deluxe 4.8.3 - Flexible multiple-clock display. http://t.co/m3R4vH4K
+macupdate	2012-11-02 11:57:33	CatHide 0.9.6 - Build games compatible with many operating systems. http://t.co/gaBMz2qz
+macupdate	2012-11-02 11:31:02	Episodes Lite 1.1.1 - Manage all of your TV shows.  http://t.co/95MjJgk3
+macupdate	2012-11-02 10:49:50	Episodes 1.1.2 - Manage all of your TV shows.  http://t.co/dLrqBk7i
+macupdate	2012-11-02 10:41:50	TAO 1.8.27 - Information outliner (was FO Outliner). http://t.co/WzbgNYxE
+macupdate	2012-11-02 10:28:05	NeO 1.0.22 - Information outlining and organizing tool. http://t.co/4JfPf39Z
+macupdate	2012-11-02 10:18:38	iNet Guardian 2.0 - Internet security. http://t.co/8VFpQIfc
+macupdate	2012-11-02 09:46:54	ArpGuard 2.0 - Monitor your internet network for intrusion.  http://t.co/C1pej1iO
+macupdate	2012-11-02 04:26:09	Get iPlayer Automator 1.5 - iPlayer downloader. http://t.co/grLTOywy
+macupdate	2012-11-02 04:17:47	Onlytasks 5.7 - Synchronize your tasks with Evernote. http://t.co/5mD1B7EA
+macupdate	2012-11-02 04:08:50	Episode 6.3.1.23 - Professional media encoding application. http://t.co/4k7kT0DD
+macupdate	2012-11-02 04:06:09	Wirecast 4.2.1 - Webcam webcasting solution with effects. http://t.co/RP8IyT5E
+macupdate	2012-11-02 03:55:20	iHomework 2.5.1 - Organize your classwork, integrating with iOS and iCal. http://t.co/8FuyVFtr
+macupdate	2012-11-02 02:55:28	TextSoap Menu 1.0.3 - Adds style-awareness to text transformation. http://t.co/iGmpmtOs
+macupdate	2012-11-02 02:51:21	Brush Pilot 2.1 - For previewing Adobe Photoshop and Adobe Photoshop Elements brushes. http://t.co/0LgJMIBd
+macupdate	2012-11-01 22:36:47	Apple Safari 6.0.2 - Fast and elegant Web browser. http://t.co/k2TQKKPF
+macupdate	2012-11-01 22:16:42	Apple iPhoto 9.4.2 - Import, edit, and share your photos. http://t.co/J25maoHR
+macupdate	2012-11-01 21:59:53	Apple Aperture 3.4.2 - Post-production photography solution. http://t.co/Hfm02F9S
+macupdate	2012-11-01 21:56:09	Sandvox 2.7 - Easily build eye-catching Web sites. http://t.co/wsUb3Gl7
+macupdate	2012-11-01 21:55:38	Triumph 2.0.0 - Multi-channel audio designer.  http://t.co/9V1gSiPx
+macupdate	2012-11-01 21:37:57	Real Racing 2 1.1.1 - Championship racing with control via iPhone or iPad. http://t.co/4L7hobxY
+macupdate	2012-11-01 21:23:55	Reckless: Getaway 1.0.5 - Crash, smash and trash your way through 16 levels. http://t.co/0UUD6uFe
+macupdate	2012-11-01 21:07:54	Moneytrends 1.0 - Easily track currencies.  http://t.co/NY1chAPf
+macupdate	2012-11-01 21:07:31	Recorder for Notes 1.1.0 - Turn your Notes into audio files. http://t.co/bxuNC0uP
+macupdate	2012-11-01 20:55:56	Easy Books 2.4.5 - Fully functional double-entry accounting application. http://t.co/VwGJI0kD
+macupdate	2012-11-01 20:55:18	Red Crucible 2 1.2 - Modern combat game. http://t.co/1YAerWeS
+macupdate	2012-11-01 20:46:57	iFototessere 4.1 - Create passport photos. http://t.co/s6Bwjjst
+macupdate	2012-11-01 20:36:51	Pimp Your Screen 1.4 - Custom desktop wallpaper. http://t.co/iq3kM5c4
+macupdate	2012-11-01 20:29:03	Wondershare PDF Editor Pro 2.0.1 - Edit and enhance your PDFs. http://t.co/KsbOaAct
+macupdate	2012-11-01 20:25:20	Wondershare Video Converter Ultimate 1.6.2 - Convert video files to multiple formats. http://t.co/etxmktwT
+macupdate	2012-11-01 20:09:20	Wondershare PDF Editor 2.0.1 - PDF editor and converter. http://t.co/PU86QEN7
+macupdate	2012-11-01 20:07:26	Wondershare AllMyTube 3.2.1 - Download and convert YouTube videos. http://t.co/wKKr8EbR
+macupdate	2012-11-01 20:04:20	Wondershare PDF Converter 3.0.0 - Convert PDFs to Offices files, HTML, and more. http://t.co/WyWe9wHx
+macupdate	2012-11-01 19:59:52	CM Batch Photo Resizer 1.1.24 - Batch size and rename photos. http://t.co/xN6llc2m
+macupdate	2012-11-01 19:58:28	Apple Xcode 4.5.2 - Integrated development environment (IDE) for Mac OS X. http://t.co/UWPNWMKJ
+macupdate	2012-11-01 19:52:34	SpeedTao 0.9.86 - Download manager. http://t.co/pzlKQZY3
+macupdate	2012-11-01 19:34:27	CrazyTalk7 7.03.1026.2 - Facial animation tool. http://t.co/mWvdIm5T
+macupdate	2012-11-01 19:16:17	Norton AntiVirus Definitions 11/01/2012 - Virus definitions for Symantec/Norton AntiVirus. http://t.co/Y91CpgHU
+macupdate	2012-11-01 19:14:33	LinkOptimizer Light 4.4.7 - Workflow automation for Adobe InDesign. http://t.co/OyLBfxau
+macupdate	2012-11-01 18:49:47	LanScan 1.5 - Simple network scanner. http://t.co/SuYrJ8zB
+macupdate	2012-11-01 18:49:04	Delete without Trash 1.1 - Delete files without them being placed in the trash first. http://t.co/0aum3OaO
+macupdate	2012-11-01 18:48:36	CrazyTalk7 7.03.1026.2 - Facial animation tool.  http://t.co/mWvdIm5T
+macupdate	2012-11-01 17:24:53	Postie 1.0 - A minimalist Scriptogram client.  http://t.co/EtkhQpuI
+macupdate	2012-11-01 17:17:02	SeaMonkey for PPC 2.13.2 - PPC port of the popular SeaMonkey browser. http://t.co/dSUNMBjg
+macupdate	2012-11-01 17:16:42	RSSimple 1.1 - Convenient update notification. http://t.co/ciVzLGnh
+macupdate	2012-11-01 16:55:28	Running Sheep: Tiny Worlds 1.0.1 - Sheep themed brainteaser game. http://t.co/TRd8T2qd
+macupdate	2012-11-01 16:51:04	Message 1.5.1 - Displays messages, quotes, inspirational thoughts, and more. http://t.co/fHV4iEoy
+macupdate	2012-11-01 16:50:23	IfWizard Professional 1.1 - Easily create interactive websites and applications. http://t.co/YFPQTW5S
+macupdate	2012-11-01 16:40:38	EarthDesk 6.1 - Striking animated image of the Earth for your Desktop. http://t.co/ZIqQ4W5J
+macupdate	2012-11-01 16:25:36	IfWizard Professional 1.1 - Easily create interactive websites and applications.  http://t.co/YFPQTW5S
+macupdate	2012-11-01 16:18:23	Rose Quartz 1.0 - Offline renderer for Quartz Composer compositions.  http://t.co/nP2HaZoh
+macupdate	2012-11-01 16:07:37	iRamDisk 3.2.4 - Create a RAM disk. http://t.co/eOLeifYT
+macupdate	2012-11-01 16:07:08	Fuse4X 0.9.2 - Extend Mac OS X native file handling. http://t.co/wc6pqfcs
+macupdate	2012-11-01 15:58:53	Apple iAd Producer 3.2 - Design and assemble interactive iOS advertising content. http://t.co/cefNuRuh
+macupdate	2012-11-01 15:35:03	Hydra Express 3.1 - Create artistic or photorealistic HDR images. http://t.co/Dmexyftn
+macupdate	2012-11-01 15:32:06	Tickets 2.5 - Create FogBugz tickets. http://t.co/wFCoPSN1
+macupdate	2012-11-01 15:19:55	Prizmo 2.0 - Scan documents with your digital camera. http://t.co/cn1iiks2
+macupdate	2012-11-01 15:16:52	Deja Vu 4.7 - Preference pane for managing backups. http://t.co/w6VwbS8f
+macupdate	2012-11-01 15:07:29	PaperCut NG 12.5 - Print quota, logging and management. http://t.co/5I1YTlIq
+macupdate	2012-11-01 14:52:06	Yep 3.1.3 - Organize and manage all your documents. http://t.co/0CAUejXJ
+macupdate	2012-11-01 14:49:45	Leap 3.1.3 - New Spotlight interface with tagging. http://t.co/g5bUALVA
+macupdate	2012-11-01 14:48:57	StoryTweaker 1.9.4b - Allows round-tripping text out and back into an InDesign layout. http://t.co/McghE24e
+macupdate	2012-11-01 14:26:23	Parallels Desktop 8.0.18314 - Run Windows, Linux, and more without rebooting; demo available. http://t.co/qKnV5dlF
+macupdate	2012-11-01 11:26:25	Disk Drill 1.8.204 - Data protection and recovery solution. http://t.co/m8XbPTPH
+macupdate	2012-11-01 04:43:37	Dropshelf 1.0.1 - Makes dragging and dropping easier. http://t.co/mo09ob6p
+macupdate	2012-11-01 04:38:46	LinkAssistant 4.5.3 - Build links easily with this SEO tool. http://t.co/EcDxcdh6
+macupdate	2012-11-01 04:24:29	WeaverPix 3.0.0 - Create slideshows in Rapidweaver. http://t.co/fhmFkX0A
+macupdate	2012-11-01 04:07:41	iSonics 0.9.10 - Convert audio files between formats. http://t.co/H2rbKrxL
+macupdate	2012-11-01 04:01:09	Cyklone Pix 2.0.0 - Build a beautiful photo cloud for your website. http://t.co/sc4NsGeq
+macupdate	2012-11-01 03:53:08	Auto Macro Recorder 1.11 - Easy macro recording and replaying. http://t.co/xgDnmqix
+macupdate	2012-11-01 03:41:28	DashExpander 1.7.2 - Time-saving text expansion tool. http://t.co/qId28OB2
+macupdate	2012-11-01 03:29:36	Dash 1.7.2 - Code snippet manager and Cocoa documentation browser. http://t.co/JGG1WdT6
+macupdate	2012-10-31 22:34:59	TeamViewer 7.0.11837 - Establish remote connections with other Macs and PCs. http://t.co/CE07MG84
+macupdate	2012-10-31 21:23:26	Google Earth Web Plug-in 7.0.1.8244 - Embed Google Earth into your Web pages. http://t.co/MURjgm6X
+macupdate	2012-10-31 21:10:08	Devawriter Pro 1.0.5.1 - Teach and study and Devanagari. http://t.co/JFe34kTx
+macupdate	2012-10-31 20:54:12	Google Earth 7.0.1.8244 - View and control dynamic satellite imagery of the world. http://t.co/ROmvvhmZ
+macupdate	2012-10-31 20:50:03	cleanTabs RapidWeaver Stack 1.0.0 - Brings jQuery tabs into RapidWeaver.  http://t.co/2s68iL4y
+macupdate	2012-10-31 20:35:46	Perfect Keylogger for Mac Lite 1.0 - Records keystrokes and much more.  http://t.co/4K1L39Iq
+macupdate	2012-10-31 20:15:16	Screens 2.1.2 - Access your computer remotely. http://t.co/2bAsWsOD
+macupdate	2012-10-31 20:00:34	Russian Collection 1.1.3 - Provides extended explanations of Russian words and language. http://t.co/xOEIgWXb
+macupdate	2012-10-31 19:58:04	Parallels Desktop 8.0.18305 - Run Windows, Linux, and more without rebooting; demo available. http://t.co/qKnV5dlF
+macupdate	2012-10-31 19:32:26	Sales Tax 1.2 - Tax calculator for U.S. and Canada. http://t.co/95Z03yDz
+macupdate	2012-10-31 19:24:39	Differences Examiner 5.0 - Compare and display differences in text files. http://t.co/EZLyfzHi
+macupdate	2012-10-31 19:07:11	SaveIt Lite 2.1 (iPhone) - Save Web pages for offline viewing. http://t.co/2dkCFCDh
+macupdate	2012-10-31 18:54:22	Scrawl 1.2.1 - Simple note taking application. http://t.co/m70loT6K
+macupdate	2012-10-31 18:51:01	Yate 1.2.2.1 - Tag and organize your audio files.  http://t.co/WXq952s3
+macupdate	2012-10-31 18:47:35	MoneyBag 1.0.1 - Track your financial transactions. http://t.co/OmjGuTOa
+macupdate	2012-10-31 18:36:38	Screen Capture X 2.2.0 - Screenshots with various options. http://t.co/2wbOYBmh
+macupdate	2012-10-31 18:30:54	Little Snitch 3.0.2 ni - Alerts you to outgoing network connections (nightly build). http://t.co/t6wbSsbt
+macupdate	2012-10-31 18:26:09	Fresh Finance 1.8.1 - Personal finance solution. http://t.co/0sz7cy1N
+macupdate	2012-10-31 18:14:49	ClickToPlugin 2.7.1 - Prevents Safari from launching plugins automatically. http://t.co/mpxoaOAV
+macupdate	2012-10-31 17:04:28	ScreenFloat 1.3.2 - Create screenshots in floating windows. http://t.co/gE7NssKL
+macupdate	2012-10-31 17:03:36	Animation Desk 1.1 - Simple and intuitive animation tool. http://t.co/IxX8CcEO
+macupdate	2012-10-31 16:55:30	TextSoap 7.3.5 - Flexible text editing utility. http://t.co/E02oeCXc
+macupdate	2012-10-31 16:52:12	Search Maestro HD (For Yahoo!) 4.3 (iPhone) - Optimize your Yahoo! searches. http://t.co/OlyOlSjj
+macupdate	2012-10-31 16:50:36	Flip4Mac WMV Studio 3.0.0.126 - Play Windows Media in QuickTime Player. http://t.co/jNxqSCMG
+macupdate	2012-10-31 16:47:25	Flip4Mac WMV Studio Pro 3.0.0.126 - Import and playback WMV in QuickTime. http://t.co/y9xzZm5W
+macupdate	2012-10-31 16:42:42	Flip4Mac WMV Studio Pro HD 3.0.0.126 - Import and playback WMV in QuickTime. http://t.co/NPNuk3bZ
+macupdate	2012-10-31 15:58:55	AutoEncrypt 1.1 - Sync encrypted versions of your files. http://t.co/gj50LXQV
+macupdate	2012-10-31 15:55:21	Security Camera 2.3 - Photographically capture user identities on your Mac. http://t.co/64apXfIQ
+macupdate	2012-10-31 15:31:51	iSoftPhone Pro 3.4138 - Advanced softphone application. http://t.co/53eG6hlR
+macupdate	2012-10-31 15:31:24	iSoftPhone 3.4136 - VoIP virtual Internet phone. http://t.co/EeVv48qb
+macupdate	2012-10-31 15:09:26	Shooting Blocks 2.9.1 - Test your reflexes and observational skills. http://t.co/42Y8il0g
+macupdate	2012-10-31 14:58:49	SQLEditor 2.0.2 - Create SQL databases graphically. http://t.co/Whx5KWHj
+macupdate	2012-10-31 14:56:38	StoryTweaker for InDesign 1.9.3b - Allows round-tripping text out and back into an InDesign layout. http://t.co/0AxC9TFI
+macupdate	2012-10-31 14:48:47	PDF Squeezer 2.2.1 - Simple-to-use PDF compression tool. http://t.co/esn6KQ1U
+macupdate	2012-10-31 13:45:43	Apple Configurator 1.2.1 - Configure and deploy iOS devices for organizations. http://t.co/lkmvvX8D
+macupdate	2012-10-31 13:39:51	SourceTree 1.5.5.1 - Easy way to work with Git and Mercurial. http://t.co/iHauGHEa
+macupdate	2012-10-31 13:31:48	PDF Squeezer 3.0.2 - Simple-to-use PDF compression tool. http://t.co/esn6KQ1U
+macupdate	2012-10-31 12:36:32	MacX Video Converter Pro 3.5.8 - Convert and share videos. http://t.co/6z92Wy0q
+macupdate	2012-10-31 12:34:42	Business Card Composer 5.1.5 - Create and print business cards. http://t.co/g50hZj72
+macupdate	2012-10-31 12:34:00	Quick n Easy Web Builder 1.5.5 - WYSIWYG website builder. http://t.co/7KqC4oPV
+macupdate	2012-10-31 12:30:51	Ondesoft iTunes Converter 1.26.9 - Unlock DRM-protected music files. http://t.co/4wXTTAPL
+macupdate	2012-10-31 12:30:03	Ondesoft AudioBook Converter 1.26.9 - Convert your audio books to MP3 or AAC. http://t.co/ydXuPA51
+macupdate	2012-10-31 12:24:34	iPhotoToGoogleEarth 2.1 - View iPhoto GPS-tagged photos within Google Earth. http://t.co/TMUZy4k6
+macupdate	2012-10-31 12:20:37	Sleipnir 3.8.3.1 - Gesture-focused Web browser. http://t.co/mphFs8wx
+macupdate	2012-10-31 05:46:10	Elecktroid 1.0.3 - Drum machine plugin for popular audio suites. http://t.co/IrcrGubp
+macupdate	2012-10-31 04:52:17	Lighten PDF to Word Converter 2.2.0 - Convert your PDFs into Word documents. http://t.co/RrDa6Qgu
+macupdate	2012-10-31 04:22:20	Synology Cloud Station 2291 - Private cloud for sharing, synchronizing, and managing files (beta). http://t.co/1mEgAc38
+macupdate	2012-10-31 03:59:58	DxO Optics Pro 8.0.0 - Image enhancement for RAW and JPEG files. http://t.co/mOwV6E2G
+macupdate	2012-10-31 03:53:08	Bricksmith 2.6 - Virtual Lego builder. http://t.co/aYTbQJDh
+macupdate	2012-10-31 03:46:05	Mr. Tides 4.0.0.19.1 - Shows tide and current stations from around the world (GM). http://t.co/CvUJXwRm
+macupdate	2012-10-30 23:47:29	TenFourBird 10.0.10 - Harness the power of Thunderbird 10.0.10 on your PowerPC Mac. http://t.co/m2srTmvX
+macupdate	2012-10-30 22:48:13	Sign Me Out 2.5.1 (iPhone) - Receive notification of unwanted account access. http://t.co/AdqvDGV4
+macupdate	2012-10-30 22:41:44	WiFi Signal 1.2.1 - Monitor and troubleshoot the signal quality of your Wi-Fi connection. http://t.co/9hZon0LJ
+macupdate	2012-10-30 22:33:48	Significator for iTunes 1.3.1 - Control iTunes from the menu bar. http://t.co/ENdZLhEd
+macupdate	2012-10-30 21:20:13	Displaperture 1.3.2 - Brings back rounded corners on your screen. http://t.co/4wpaEUzd
+macupdate	2012-10-30 21:17:45	Radiologik DJ 2012.10.2 - Mixer built specifically for radio DJs. http://t.co/GcJXA2Br
+macupdate	2012-10-30 21:16:42	Radiologik Scheduler 2012.10.2 - Schedule program blocks for Radiologik DJ. http://t.co/M76FqJqy
+macupdate	2012-10-30 20:56:43	Perfect Photo Suite 7.0 - Includes all the onOne software products for Photoshop and more. http://t.co/lCrbalhI
+macupdate	2012-10-30 20:40:51	Skim Clip 1.1 - OCR tool for screen captures. http://t.co/CkwthGvN
+macupdate	2012-10-30 20:33:27	Bellhop 1.0.5 - Plan your next trip. http://t.co/sS9EvLOl
+macupdate	2012-10-30 20:30:06	RSS Menu 2.2 - System-wide, menu-accessible RSS/Atom reader. http://t.co/4hMJCJ5k
+macupdate	2012-10-30 20:29:39	SkyORB 4.2.1 - 3D planetarium featuring star-gazing and epheremis. http://t.co/1BpEyg9E
+macupdate	2012-10-30 20:16:50	Slice it! 1.0.1 - Fast-paced geometric puzzle game. http://t.co/l5dTjZkH
+macupdate	2012-10-30 20:07:04	MailRaider 0.8.0 - Read Outlook .msg files on your Mac. http://t.co/x6n6gic4
+macupdate	2012-10-30 19:57:50	Mr. Tides 4.0.0.19 - Shows tide and current stations from around the world (GM). http://t.co/CvUJXwRm
+macupdate	2012-10-30 19:51:34	Time Lapse Assembler 1.5.3 - Create movies from a sequence of images. http://t.co/18Ko4Hb9
+macupdate	2012-10-30 19:22:27	Reditr 1.1.3 - Native client for Reddit.  http://t.co/knr8QlPh
+macupdate	2012-10-30 18:56:37	MovieWriterPro 4.20 - Increase the speed of script writing.  http://t.co/XuyS58Al
+macupdate	2012-10-30 18:44:50	Berkeley UPC 2.16.0 - Portable Unified Parallel C compiler. http://t.co/g8FWsy25
+macupdate	2012-10-30 18:35:56	iCalamus 1.29 - Desktop publishing solution. http://t.co/7f71EeSt
+macupdate	2012-10-30 16:55:57	Doxie 2.2.1.3.1326 - Scan, share, and store documents, photos, receipts and more. http://t.co/pq4Rlu2i
+macupdate	2012-10-30 16:48:46	Panoply 3.1.6 - Plot raster images of latitude/longitude-gridded data. http://t.co/EHu8n7xs
+macupdate	2012-10-30 16:46:51	BootChamp 1.4.1 - Quickly boot into Windows via Boot Camp. http://t.co/yv4XYV8r
+macupdate	2012-10-30 16:23:26	Committed 1.1 - Receive notifications when code is committed to GitHub. http://t.co/78KM0cBM
+macupdate	2012-10-30 16:14:06	Web Snapper 3.2.6 - Capture entire Web pages as single images or PDF&#39;s. http://t.co/nGl9xATX
+macupdate	2012-10-30 16:06:56	Logoist 1.1.1 - Create stunning images and logos with effects. http://t.co/kgTAtj1x
+macupdate	2012-10-30 15:30:31	BatchOutput Server 4.8.3 - Automates InDesign output workflow. http://t.co/fbm8rpyL
+macupdate	2012-10-30 15:10:55	Vvidget Builder 10.8.5.1 - Chart and graph system; Pro version available. http://t.co/0sbZ9WMo
+macupdate	2012-10-30 15:10:35	MacTerm 4.0.0.b.20121014 - Terminal emulator for both local and remote shells (was MacTelnet). http://t.co/n6eRJcrH
+macupdate	2012-10-30 15:00:56	Poker Copilot 3.20 - Poker hand history analysis for many online poker sites. http://t.co/AngZTYq3
+macupdate	2012-10-30 14:57:25	X-Plane 10.11RC3 - Ultra-realistic flight simulator (beta). http://t.co/OEaPw4YB
+macupdate	2012-10-30 14:54:24	Aqua Data Studio 12.0.3 - Single interface for common relational databases. http://t.co/xL7TlPNq
+macupdate	2012-10-30 14:45:51	Norton AntiVirus Definitions 10/29/2012 - Virus definitions for Symantec/Norton AntiVirus. http://t.co/Y91CpgHU
+macupdate	2012-10-30 13:34:37	Sush.io 0.43 - Store all of your online accounts and documents in the cloud. http://t.co/PxACpxIj
+macupdate	2012-10-30 12:43:07	Exhibeo 1.0.2 - Create beautiful HTML5 presentations.  http://t.co/wnRoTv7u
+macupdate	2012-10-30 12:38:24	ControlPlane 1.3.9 - Context-sensitive reconfiguration for your Mac. http://t.co/qUVwv4PR
+macupdate	2012-10-30 12:35:45	Liquid Ledger 2.4.1 - Personal finance application. http://t.co/6HQDaTyU
+macupdate	2012-10-30 12:34:16	w3capture 1.02.2 - Convert webpages into images or PDFs. http://t.co/vjVleJ3w
+macupdate	2012-10-30 12:15:23	RedButton DMG 0.9.6 - Batch creation of DMG files. http://t.co/ZGYK6wuM
+macupdate	2012-10-30 05:20:54	FTP Disk 1.1.8 - Drag and drop FTP client. http://t.co/tQXlVuYc
+macupdate	2012-10-30 05:09:18	NoteShare Server 3.0.7 - Centralized sharing of notebooks.  http://t.co/O4OV1DwW
+macupdate	2012-10-30 04:42:54	SwiftText 1.1.0 - Quick access scratchpad. http://t.co/zoyKE0yn
+macupdate	2012-10-30 04:33:22	NoteTaker 3.0.7 - Digital lifestyle organizer. http://t.co/ozUwU7Zi
+macupdate	2012-10-30 04:24:29	NoteShare Viewer 3.0.7 - NoteTaker document viewer. http://t.co/Ylu03C8b
+macupdate	2012-10-30 04:17:42	NoteShare 3.0.7 - Create, publish and share media-rich notebooks; Server version available. http://t.co/w9ziL1C9
+macupdate	2012-10-30 04:10:38	youBay 2.1.3 - Auction sniper for eBay. http://t.co/FGmxKXwj
+macupdate	2012-10-29 23:38:06	Disk Drill 1.8.203 - Data recovery solution. http://t.co/m8XbPTPH
+macupdate	2012-10-29 23:36:47	Mental Case 2.3.3 - Fun way to remember stuff. http://t.co/jehAhzvE
+macupdate	2012-10-29 23:24:50	EyeTV 3.5.6 - Watch, record, edit, and timeshift TV. http://t.co/MbRGRdn7
+macupdate	2012-10-29 23:00:18	Swinsian 1.6.1 - Music manager and player. http://t.co/4TsAqKAP
+macupdate	2012-10-29 22:58:52	NetSpot 2.0.265 - Wireless survey tool. http://t.co/OPcgqwxI
+macupdate	2012-10-29 22:57:34	Spotify 0.8.5.1333. - Stream music, create playlists and more. http://t.co/D2ihfgzl
+macupdate	2012-10-29 21:05:34	SkySafari Pro 1.6 - Explore the universe with this massive-scale astronomy database. http://t.co/TVAdMWYe
+macupdate	2012-10-29 20:11:17	Encryption Buddy 1.0.5 - Password protect and encrypt your files. http://t.co/QXfFDowQ
+macupdate	2012-10-29 19:42:15	Power JSON Editor 1.2.3 - Powerful JSON editor for developers.  http://t.co/3ePqR4hF
+macupdate	2012-10-29 19:36:47	BlueX 2.0.9 - Convert Blu-ray to Quicktime.  http://t.co/O5YSbNmK
+macupdate	2012-10-29 19:12:04	Nokumo Lite 0.9.6 - Manage and track projects. http://t.co/wgIFCAzl
+macupdate	2012-10-29 18:55:36	Pixa 0.9.8 - Quickly and easily organize your images. http://t.co/NrbUZPh6
+macupdate	2012-10-29 18:54:33	Nokumo 0.9.6 - Manage and track projects. http://t.co/svzCIibP
+macupdate	2012-10-29 18:48:46	Email Archiver 2.6.0 - Save your Apple Mail messages as PDFs. http://t.co/bvCSbtK7
+macupdate	2012-10-29 17:11:51	Yep 3.1.2 - Organize and manage all your documents. http://t.co/0CAUejXJ
+macupdate	2012-10-29 17:11:37	Fresh 2.0.8 - Instantly find attachments you download. http://t.co/0yiPUaY1
+macupdate	2012-10-29 16:58:56	Leap 3.1.2 - New Spotlight interface with tagging. http://t.co/g5bUALVA
+macupdate	2012-10-29 16:33:12	Tonalis 1.1.3 - Instantly produce original compositions.  http://t.co/KMU3JROf
+macupdate	2012-10-29 16:12:13	AppDelete 4.0.3 - The speedy and efficient way to delete your unwanted apps. http://t.co/OEg5OURN
+macupdate	2012-10-29 15:59:10	Free Solitaire 3D 6.02 - 65 solitaire card games. http://t.co/pESgmi2h
+macupdate	2012-10-29 15:30:56	Output Factory 1.3.9 - Automate printing and exporting from InDesign. http://t.co/O8U53og6
+macupdate	2012-10-29 15:30:04	MagicDraw UML 17.0.3 beta - Visual UML modeling and CASE tool with teamwork support. http://t.co/eNOlfqDq
+macupdate	2012-10-29 15:20:31	Money 4.3.1 - Personal accounting app. http://t.co/dyTTNTTH
+macupdate	2012-10-29 15:01:23	Syncovery 6.15 - Back-up and synchronize your Mac (was Super Flexible File Synchronizer). http://t.co/g8MA52QG
+macupdate	2012-10-29 14:24:21	shootShifter 3.0b6 - Redate/rename complete folders of images based on EXIF data. http://t.co/4CaMLWv7
+macupdate	2012-10-29 14:17:16	Snapheal 2.0 - Professional-quality image enhancement utility. http://t.co/kDaGMcMd
+macupdate	2012-10-29 14:16:53	Bitdefender Antivirus 2.30 - Antivirus package. http://t.co/1V0kehxW
+macupdate	2012-10-29 14:03:15	Graph 10.8.5.1 - You give it data and it gives you a graph. http://t.co/QWOpZ7UY
+macupdate	2012-10-29 13:55:34	Bookpedia 5.1.3 - Book cataloging utility with iTunes-like interface. http://t.co/0QX2GTXx
+macupdate	2012-10-29 13:54:15	CDpedia 5.1.3 - CD management system with iTunes-like interface. http://t.co/o3vLQzlf
+macupdate	2012-10-29 13:52:52	Gamepedia 5.1.3 - Catalog video and computer games. http://t.co/402DabG9
+macupdate	2012-10-29 13:50:03	Cloudmarks Safari Extension 1.8.2 - Safari extension to search and open Pinboard or Google bookmarks. http://t.co/1BWs2nfD
+macupdate	2012-10-29 13:34:15	MenuBar Expander 1.0 - Expands your menubar revealing hidden applications.  http://t.co/wbhpwvEL
+macupdate	2012-10-29 13:25:38	PhotoMagic 1.1 - Enhance your photos with filters and more. http://t.co/68VIYbdj
+macupdate	2012-10-29 13:20:34	iGreetingCard 1.6 - Create stunning greeting cards. http://t.co/r5iLdnA7
+macupdate	2012-10-29 13:12:13	Christmas Super Frog 2.1.1 - Frogger-style game with a Christmas twist. http://t.co/LETOSB9D
+macupdate	2012-10-29 12:17:22	Exhibeo 1.0.1 - Create beautiful HTML5 presentations.  http://t.co/wnRoTv7u
+macupdate	2012-10-29 12:16:03	BrainsBreaker 5.2.4.6 - Design and build realistic jigsaw puzzles. http://t.co/WyiWESgn
+macupdate	2012-10-29 12:15:19	Coollector Movie Database 3.23.2 - Personal movie and video collection manager. http://t.co/jq7pS7KS
+macupdate	2012-10-29 12:11:21	Default Folder X 4.5 - Enhances Open and Save dialogs with bountiful options. http://t.co/7LKEjuVd
+macupdate	2012-10-29 11:57:27	Decloner 1.5.2 - Find and eliminate duplicate files on your Mac. http://t.co/Zc6VLM8v
+macupdate	2012-10-29 11:55:56	http://t.co/SpBJZGJ0 Widget 5.1.2 - View current promotions from http://t.co/SpBJZGJ0. http://t.co/pT2AlUIZ
+macupdate	2012-10-29 11:54:44	Cloud 1.5.4 - Share images, links, music and more. http://t.co/d8SROaPr
+macupdate	2012-10-29 05:23:24	BeHealthy 2.3.1 - Reminds you to take regular work breaks. http://t.co/hIeHb9z0
+macupdate	2012-10-29 05:20:44	Found 1.2.2 - Find files quickly across your Mac and personal cloud services. http://t.co/mbphAV1q
+macupdate	2012-10-29 05:14:39	Bible Analyzer 4.6 - Study and analyze the Bible. http://t.co/pt2rr5o1
+macupdate	2012-10-29 05:08:42	GoodSync 3.6.6 - Backup and file synchronization software. http://t.co/4mB8HFIb
+macupdate	2012-10-29 04:57:04	Sports Fan Widget 1.3.51 - Keep an eye on your favorite sports teams. http://t.co/rAzvh2gb
+macupdate	2012-10-29 04:53:19	Library Books 3.21b4 - Track your borrowed library books. http://t.co/eZzPpQZc
+macupdate	2012-10-29 04:39:18	Cloud Money 1.03 - Effectively keep track of your money. http://t.co/U9P1q0Jg
+macupdate	2012-10-29 04:24:16	Findy 1.02 - Find your files. http://t.co/RzcesRV8
+macupdate	2012-10-29 04:15:55	Site Collector 1.01 - Easily and efficiently take snapshots of websites. http://t.co/cOk15mGz
+macupdate	2012-10-29 04:08:21	ToDo Activity 1.4 - Simple and effective task manager. http://t.co/1Cv3rqN0
+macupdate	2012-10-29 03:56:10	LiveCode 5.5.3 - Create iOS applications quickly and easily. http://t.co/T6kdxKDO
+macupdate	2012-10-29 03:50:59	Solar Eclipse Maestro 1.8.3 - Controls up to 4 USB or Firewire cameras during an eclipse. http://t.co/RYpscJmU
+macupdate	2012-10-29 03:37:34	Yate 1.2.2 - Tag and organize your audio files.  http://t.co/WXq952s3
+macupdate	2012-10-28 23:09:53	Splice 1.0 - Experimental and artistic puzzle game.  http://t.co/NKIu9unl
+macupdate	2012-10-28 22:19:29	doo 0.10.6 - Collects and organizes your documents. http://t.co/qaMIsSDc
